@@ -18,12 +18,15 @@ After that, we visit the replica of Melbourne CBD in Minecraft. Whe were in a bu
 ![](https://fusecontent.education.vic.gov.au/0a4d4194-b830-48e8-af68-69cf943c9883/_0a4d4194-b830-48e8-af68-69cf943c9883.preview.jpg)
 > image by Fuse
 
-## Get start with Processing
+## Get start with P5.js
 
 In class, Karen get us started with simple geometric shape. We also learnt the use of mouseX, and mouseY as a crontroller. After class, I was trying to get familar with processing so I made one block model letter and play with it a little bit.
 
-![](Letter 0.JPG)
+![](Letter o.JPG)
 ![](Letter.JPG)
+> see in action [here](http://127.0.0.1:8699/) 
+
+Then I move one to create letter N. After exploring arc and `<addr>`
 
 
 
