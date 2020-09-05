@@ -23,7 +23,7 @@ I am also doing [100 Days project](https://www.instagram.com/napasorndesign/?hl=
 Next we discuss reading in virtual space, ranging from [performace art](delappe.net/game-art/quakefriends) to [machinema](youtube.com/watch?v=4Gy3ZWrnklw) 
 The reading can be the disruption in virtual world or the addtion to the world, using what is in the game to portrait narrative. My group choose SIM 4 as our platform which allow us to building hunting house. 
 
-![](https://i.gifer.com/1Nqv.gif)
+![](https://i.gifer.com/44Y.gif)
 
 ## P5.js
 
