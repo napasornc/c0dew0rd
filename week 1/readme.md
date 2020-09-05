@@ -15,4 +15,12 @@ We discussing about hypertext which I understand as the form of text that can be
 
 After that, we visit the replica of Melbourne CBD in Minecraft. Whe were in a building mode which some people make explosion, it was great fun and we were able to talk with other classmate. Feel like a community as I was seeing everyone's avatar in one space. 
 
+![](https://fusecontent.education.vic.gov.au/0a4d4194-b830-48e8-af68-69cf943c9883/_0a4d4194-b830-48e8-af68-69cf943c9883.preview.jpg)
+> image by Fuse
+
+## Get start with Processing
+
+In class, Karen get us started with simple geometric shape. We also learnt the use of mouseX, and mouseY as a crontroller. After class, I was trying to get familar with processing so I made one block model letter and play with it a little bit.
+
+
 
