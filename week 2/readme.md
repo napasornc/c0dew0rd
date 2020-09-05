@@ -23,13 +23,13 @@ I am also doing [100 Days project](https://www.instagram.com/napasorndesign/?hl=
 Next we discuss reading in virtual space, ranging from [performace art](delappe.net/game-art/quakefriends) to [machinema](youtube.com/watch?v=4Gy3ZWrnklw) 
 The reading can be the disruption in virtual world or the addtion to the world, using what is in the game to portrait narrative. My group choose SIM 4 as our platform which allow us to building hunting house. 
 
-![](https://i.gifer.com/44Y.gif)
+![](https://media.giphy.com/media/rjSKNuaapUFCo/giphy.gif)
 
 ## P5.js
 
-We transition to processing. Learning to code from other coder. We are promtped to pick class mate's letter and reinterpret it. I chose letter `<HP>` from Hamish. He build letter from block of retangle then subtract with ellipse shape. I animate his letter and adjust the stroke width. This excercise stoodout to me because I always want to come up with orginal idea but learning that idea can come from improving other idea is mindblowing. 
+We transition to processing. Learning to code from other coder. We are promtped to pick class mate's letter and reinterpret it. I chose letter `HP` from Hamish. He build letter from block of retangle then subtract with ellipse shape. I animate his letter and adjust the stroke width. This excercise stoodout to me because I always want to come up with orginal idea but learning that idea can come from improving other idea is mindblowing. 
 
-![](HP.jpg)
+![](HP.JPG)
 > see in action [here](http://127.0.0.1:8215/)
 
 
