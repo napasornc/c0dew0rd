@@ -4,5 +4,4 @@ We first got a warm introduct from Andy and Karen, explaining what is Code+Word.
 
 ## Minecraft Melbourne
 
-After discussing about hypertext and how digital space change how we read. Personally, I understand hypertext as the form of text that isn't written in linear 
-format. It's not meant to be  We visit virtual Melbourne in Minecraft. 
+After discussing about hypertext and how digital space change how we read. Just want to add that personally, I understand hypertext as the form of text that isn't written in linear format. Anyway, we visit virtual Melbourne in Minecraft. Someone made big sign 
