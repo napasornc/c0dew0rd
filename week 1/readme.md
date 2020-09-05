@@ -28,7 +28,8 @@ In class, Karen get us started with simple geometric shape. We also learnt the u
 
 Then I move one to create letter N. I first drew with rectangle shape first then I start looking at the coordinate I use to map. I replace first 2 coordinate with `<mouseX>` and `<mouseY>` in order to animate the letter.
 
-<img src=N.JPG" width="100" height="100">
+![](N.JPG)
+![](N.JPG | width=48)
 > see in action [here](http://127.0.0.1:8818/)
 
 
