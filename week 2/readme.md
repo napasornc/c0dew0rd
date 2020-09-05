@@ -16,7 +16,7 @@ human, human to machine.
 I am also doing [100 Days project](https://www.instagram.com/napasorndesign/?hl=en) at the same time so I dedicate 1 week to recreate work in Igarashi style. Using axonometric drawing as a skeleton. I made a sketch and execute each pieces on illustrator as well.
 
 ![](Hamgry.jpg)
-![](Sor8.JPG)
+![](Sor8.jpg)
 
 ## House of Leaves
 
