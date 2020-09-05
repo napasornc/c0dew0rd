@@ -22,7 +22,7 @@ After that, we visit the replica of Melbourne CBD in Minecraft. Whe were in a bu
 
 In class, Karen get us started with simple geometric shape. We also learnt the use of mouseX, and mouseY as a crontroller. After class, I was trying to get familar with processing so I made one block model letter and play with it a little bit.
 
-![]()
+![](Letter 0.JPG)
 ![](Letter.JPG)
 
 
