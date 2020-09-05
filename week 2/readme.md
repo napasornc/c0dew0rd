@@ -24,6 +24,7 @@ Next we discuss reading in virtual space, ranging from [performace art](https://
 The reading can be the disruption in virtual world or the addtion to the world, using what is in the game to portrait narrative. My group choose SIM 4 as our platform which allow us to building hunting house. 
 
 ![](https://media.giphy.com/media/rjSKNuaapUFCo/giphy.gif)
+> image by Gifer
 
 ## P5.js
 
