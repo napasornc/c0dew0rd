@@ -10,8 +10,19 @@ geometric shape, inspired by international swiss style. In his [Lecture with UCL
 which is very interesting because we were discussing the relation between type and digital space last week. We can see that it flow both ways - machine to 
 human, human to machine. 
 
-![](https://i.pinimg.com/originals/a4/a9/96/a4a9967025137f040064f162a808b908.jpg) ![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0uRcsz3dRGh7jY1A7QZ6pJi7diqp8uiD4Lg&usqp=CAU)
-> image by Moma
+![](https://i.pinimg.com/originals/a4/a9/96/a4a9967025137f040064f162a808b908.jpg) 
+> image by MoMA
+
+I am also doing [100 Days project](https://www.instagram.com/napasorndesign/?hl=en) at the same time so I dedicate 1 week to recreate work in Igarashi style. Using axonometric drawing as a skeleton. I made a sketch and execute each pieces on illustrator as well.
+
+![](w1_takenobu_igarashi-01.JPG)
+![](w1 day 4_s igarashi principle + josef albers-01.JPG)
+
+##House of Leaves
+
+Next we 
+
+
 
 
 
