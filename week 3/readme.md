@@ -32,7 +32,7 @@ create installation, calling himself a composer. In the interview, he compares v
 quantum machanical. His work is completely opposite to Aaron, he doesn't focus on cumputer but the experience. 
 
 ![](https://37.media.tumblr.com/0b8cc2b0ef72f9129387a2001dc8f55e/tumblr_mumkgfoSrT1qgbi8io2_500.gif)
-image by reBloggy
+> image by reBloggy
 
 ### Oh! What a Shiny Night
 
