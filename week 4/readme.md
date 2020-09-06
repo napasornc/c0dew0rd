@@ -14,3 +14,5 @@ Our challenge is file convertion. Raw files from Sim 4 were not supported by qui
 
 
 ## P5.js  
+
+preload and spinning (movement)
