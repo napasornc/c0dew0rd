@@ -10,7 +10,12 @@ We build one house and upload it to library so everyone can download to their si
 
 ## Challenge
 
-Our challenge is file convertion. Raw files from Sim 4 were not supported by quicktime players and  
+Our challenge is file convertion. Raw files from Sim 4 were not supported by quicktime players and we have to managing file size while converting. We also discuss the option to narrate story. We talked about voice over and sound effect. We settle on using sound and meaningless word produce by sim call simlish because sim's reaction is authentic to their intersction with other sim. We came together to figure out the format for subtitle and we agree to keep it simple like we can see in home video. Our subtitle were created by us mixed with lines from the book. In addition, in order to access certain command, I need to build relationship between sims. For example, I need to get Navidson to married Karen so he can get jealous. 
+
+![](SIMrelationship.JPG)
+> shot by Sam
+
+One of the perk is sim illustrate realitic ruducting version of human relationship so we can have sim communicate with each other. However, sim also can overwrite your command. Sim have sim needs that need to be met, I use a lot of cheat code to filled their needs. 
 
 
 ## P5.js  
