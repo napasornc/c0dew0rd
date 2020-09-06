@@ -2,4 +2,4 @@
 
 #### we love code + word
 
-Welcome to my coding space!
+Welcome to my coding space! :robot:
