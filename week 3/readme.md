@@ -36,9 +36,9 @@ quantum machanical. His work is completely opposite to Aaron, he doesn't focus o
 
 ### Oh! What a Shiny Night
 
-I was inspired by both artists above so I learn to sound visualization in p5.js. Using function called `Amplified` and learning way to set `var`. I also learn how to create button using `button = createButton('name');`, `button.mousePressed(function);`. Mean variable hold a particualr function and once variable is evaluted, the function is execute. (note for myself later). Ellipse will resize according to the `amp` of the song. 
+I was inspired by both artists above so I learn to sound visualization in p5.js. Using function called `Amplified` and learning way to set `var`. I also learn how to create button using `button = createButton('name');`, `button.mousePressed(function);`. Mean variable hold a particualr function and once variable is evaluted, the function is execute. (note for myself later). Ellipse will resize according to the `amp` of the song. It is only a simple shape for now.
 
-![](amp.jpg)
+![](amp.JPG)
 > see in action [here](https://editor.p5js.org/napasornc/present/dgtxBQdm-)
 
 If you are into Korean song, [oh! What a Shiny Night](https://youtu.be/ooADmOarsZw) which is a song that I pick is quite good. 
