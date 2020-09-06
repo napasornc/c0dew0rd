@@ -49,7 +49,7 @@ If you are into Korean song, [oh! What a Shiny Night](https://youtu.be/ooADmOars
 
 As a class, we co-create story which is narrated by AI in AI Dungeon. It was fun and chaotic as everyone try to add their line. It was very interesting to see tat AI examine and pull out key word from yuor line of text then use that word to generate next part of the story. I add word 'pizza' in the mid of fantasy goblin story while playing solo after class, AI then change the narrative from me being chase by gobblin to having wizard offer me pizza in his kitchen. 
 
-![](AI dungeon.JPG)
+![](AIdungeon.JPG)
 
 I also broke AI at some point, I unintentionally type 'tell you' instead of 'tell me' and AI can't recognize this gramically wrong phrase. 
 
