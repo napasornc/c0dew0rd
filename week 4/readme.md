@@ -20,4 +20,9 @@ One of the perk is sim illustrate realitic ruducting version of human relationsh
 
 ## P5.js  
 
-preload and spinning (movement)
+We learn function preload and create spinning movement using 
+
+![](Spin.JPG)
+> see in action [here](http://127.0.0.1:8287/)
+
+
