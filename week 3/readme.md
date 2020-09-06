@@ -18,7 +18,13 @@ With my own research I found [LaTurboAvedon]()
 
 ### Sonic Pi
 
-[Live coding Music Synth]()
+[Live coding Music Synth](https://youtu.be/KJPdbp1An2s) code by Sam Aaron using Sonic Pi is very mind boggling, it was verying impressive to see code in action in real time. In his [TedTalks](https://youtu.be/TK1mBqKvIyU), he said that his purpose for doing live performance is to "lower the barrier to creative experience with code". Segway into "desinger who can't code is like chef who can't cook", which I think having backend/process as a focal point make coding less intimidating.
+> thank you Andy and Karen for this beautiful code 
+
+![](https://youtu.be/tH-p2B1hjJ8)
+
+He also collaborate with other artists/singers. In this live coding performance, [Sam Aaron & Jylda](https://youtu.be/oDHumac84aw), Jylda sing beutifully along with Aaron code dap step simultaneously. 
+
 
 
 
