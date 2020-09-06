@@ -11,26 +11,37 @@ After looking at Avatar, identities in virtual space. We were introduced to few 
 
 ### LaTurboAvedon
 
-With my own research I found [LaTurboAvedon]()
+With my own research I found [LaTurboAvedon](https://turboavedon.com/selected-works/), an artist and curator who solely work in virtual world. She explore the concept of virtual identities and authorship. I was capture by her [sculptures](https://youtu.be/-w9zmc3JT5c) in Second Life. In her chatroom, she mentin that virutal world doesn't have financial and physical limitation. Which I agree that transforming imagination into reality in real world, sometimes is physical impossible. One of our limitation is lockdown so we see things like shops and shcool transition onto online space, which I think will continue to happen more.   
 
 ![](https://www.somersethouse.org.uk/sites/default/files/LaTurbo%20Avdeon%20Header%20Image.jpg)
 > image by SummersetHouse
 
 ### Sonic Pi
 
-[Live coding Music Synth](https://youtu.be/KJPdbp1An2s) code by Sam Aaron using Sonic Pi is very mind boggling, it was verying impressive to see code in action in real time. In his [TedTalks](https://youtu.be/TK1mBqKvIyU), he said that his purpose for doing live performance is to "lower the barrier to creative experience with code". Segway into "desinger who can't code is like chef who can't cook", which I think having backend/process as a focal point make coding less intimidating.
+During our hunting and gathering, I went throught my classmate research and found [Live coding Music Synth](https://youtu.be/KJPdbp1An2s) coded by Sam Aaron using Sonic Pi to be very mind boggling. It was verying impressive to see code in action in real time. In his [TedTalks](https://youtu.be/TK1mBqKvIyU), he said that his purpose for doing live performance is to "lower the barrier to creative experience with code". Segway into "desinger who can't code is like chef who can't cook", which I think having backend/process as a focal point make coding less intimidating.
 > thank you Andy and Karen for this beautiful code 
 
-![](https://youtu.be/tH-p2B1hjJ8)
+![](https://i.ytimg.com/vi/KJPdbp1An2s/maxresdefault.jpg)
 
 He also collaborate with other artists/singers. In this live coding performance, [Sam Aaron & Jylda](https://youtu.be/oDHumac84aw), Jylda sing beutifully along with Aaron code dap step simultaneously. 
 
+### Ryoji ikeda
 
+Worth mentioning! someone in class brought up [Ryoji ikeda](https://youtu.be/omDK2Cm2mwo) so I look him up. He is a sound and video artist from Japan, who 
+create installation, calling himself a composer. In the interview, he compares visual graphics elements like color palette, composition to methatical and 
+quantum machanical. His work is completely opposite to Aaron, he doesn't focus on cumputer but the experience. 
 
-
+![](https://37.media.tumblr.com/0b8cc2b0ef72f9129387a2001dc8f55e/tumblr_mumkgfoSrT1qgbi8io2_500.gif)
+image by reBloggy
 
 ### Oh! What a Shiny Night
 
+I was inspired by both artists above so I learn to sound visualization in p5.js. Using function called `Amplified` and learning way to set `var`. I also learn how to create button using `button = createButton('name');`, `button.mousePressed(function);`. Mean variable hold a particualr function and once variable is evaluted, the function is execute. (note for myself later). Ellipse will resize according to the `amp` of the song. 
+
+![](amp.jpg)
+> see in action [here](https://editor.p5js.org/napasornc/present/dgtxBQdm-)
+
+If you are into Korean song, [oh! What a Shiny Night](https://youtu.be/ooADmOarsZw) which is a song that I pick is quite good. 
 
 
 ### AI Dungeon
