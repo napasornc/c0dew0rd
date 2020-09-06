@@ -11,8 +11,16 @@ After looking at Avatar, identities in virtual space. We were introduced to few 
 
 ### LaTurboAvedon
 
+With my own research I found [LaTurboAvedon]()
 
-### Sonic PI
+![](https://www.somersethouse.org.uk/sites/default/files/LaTurbo%20Avdeon%20Header%20Image.jpg)
+> image by SummersetHouse
+
+### Sonic Pi
+
+[Live coding Music Synth]()
+
+
 
 
 ### Oh! What a Shiny Night
