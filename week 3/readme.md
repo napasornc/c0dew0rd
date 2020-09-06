@@ -22,6 +22,7 @@ During our hunting and gathering, I went throught my classmate research and foun
 > thank you Andy and Karen for this beautiful code 
 
 ![](https://i.ytimg.com/vi/KJPdbp1An2s/maxresdefault.jpg)
+> image by Sam Aaron
 
 He also collaborate with other artists/singers. In this live coding performance, [Sam Aaron & Jylda](https://youtu.be/oDHumac84aw), Jylda sing beutifully along with Aaron code dap step simultaneously. 
 
@@ -45,5 +46,19 @@ If you are into Korean song, [oh! What a Shiny Night](https://youtu.be/ooADmOars
 
 
 ### AI Dungeon
+
+As a class, we co-create story which is narrated by AI in AI Dungeon. It was fun and chaotic as everyone try to add their line. It was very interesting to see tat AI examine and pull out key word from yuor line of text then use that word to generate next part of the story. I add word 'pizza' in the mid of fantasy goblin story while playing solo after class, AI then change the narrative from me being chase by gobblin to having wizard offer me pizza in his kitchen. 
+
+![](AI dungeon.JPG)
+
+I also broke AI at some point, I unintentionally type 'tell you' instead of 'tell me' and AI can't recognize this gramically wrong phrase. 
+
+### Brief 2
+
+After that we broke into individual group to discuss and plan our rereading project. My group, Sim 4, found out that we can't have our sim in the same world, so we aim to shoot our own mini story then edit it together. Our idea was to make a mini documentary in paranomal activities film style. All the shaky camara and the first pov camera. We agree that Navidson, our main chracter was shooting home video anyway, we will pretend to be him, the crews, and interviewer (from news channel). We make a list of things we might not be able to find in sim so that we can find preset object to replace it. 
+
+![](SIM.JPG)
+
+
 
 
