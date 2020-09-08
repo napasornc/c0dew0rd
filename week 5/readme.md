@@ -22,7 +22,7 @@ We jump into group discussion about expectation for Major project. Transition to
 
 ## Picking text
 
-Metahaven
+blackletter and black metal by Metahaven, 
 
 > read [here](http://digbeyond.com/readme/JPG/Metahaven_Uncorporate_Identity_2010_bw.pdf)
 
