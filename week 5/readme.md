@@ -1,5 +1,7 @@
 # Week 5 _ Screening :star_struck:
 
+We finally screen our rough cut, getting a chance to recieve feedback
+
 ## Show time
 
 We finally screen our 
