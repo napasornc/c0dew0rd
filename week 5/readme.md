@@ -16,6 +16,8 @@ review
 
 We jump into group discussion about expectation for Major project. Transition to breaking up into smaller group. My teammate pick different text to review so we could come back and share what we found. I pick Generative Design by [Yolanda Zappaterra](https://yolandazappaterra.wordpress.com/), an artist who love food and travel. 
 
+![](GenerativeDesign.JPG)
+
 > read [here](http://digbeyond.com/readme/view.php?id=55&course=Code%20Words)
 
 ## Picking text
