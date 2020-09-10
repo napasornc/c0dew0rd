@@ -1,12 +1,15 @@
 # Show and tell :scream:
 
-In the beginning of the class we refelct back to what we learnt in the past six weeks which then transition nicely into our chosen text. We went and filled the  sheet with 50 - 100 words pulling from our text. What I found really interesting is some people describ their reson as 
+In the beginning of the class we refelct back to what we learnt in the past six weeks which then transition nicely into our chosen text. We went and filled the  sheet with 50 - 100 words pulling from our text. What I found really interesting is some people describe their reason as having emotional connection to the text. Key passage contain word that is rich in meaning and can be visualized. 
 
 ## Showing paper prototype 
-I was fairly stuck: With smaller group of my classmates telling their : showing paper prototype 
+I was fairly stuck with paper prototype over the break, not being able to create prototype from extracted keyword. After changing the text to Viruses are good for you, I have a fairly vague idea of making text duplicate itslef endlessly. In a small group discussion, I show three prototype to Tayler and Ruby. Text replicate itself is the first idea, pop up window is a second idea, and broken text is the last idea. They suggest that replicating text and pop up window is interesting. They also suggest that making these test interactive can be more engaging eg. have a slider.  
 
-problem = paper protottype
-solution = how to translating that into code
+```
+"problem = paper protottype
+solution = how to translating that into code"
+```
+> another good qoute from Andy that sum up this process very well
 
 ## The critical code
 coder's comment
