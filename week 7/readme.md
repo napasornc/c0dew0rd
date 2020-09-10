@@ -31,12 +31,10 @@ With another live code session with Karen, we were introduce to the P5.js Play w
 Note from live code (for me)
 
 Additional library
-P5.js 
-= one of jave set library. Convinent for coder to publish their work on web. P5.js has a additional 
-add on features, eg. ml5.js
+------------ | -------------
+P5.js | one of jave set library. Convinent for coder to publish their work on web. P5.js has a additional add on features, eg. ml5.js
 
-P5.play 
-= an extened library that has all the code that already been tested - so it can be use as a skeleton for 
+P5.play | an extened library that has all the code that already been tested - so it can be use as a skeleton for 
 your code. The code can't be copy directly to the sketch unless the extented library is downloaded. 
 
 Class and features
