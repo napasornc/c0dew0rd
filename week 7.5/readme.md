@@ -13,8 +13,17 @@ As I was browsing through everyone else github, I came across this beautiful web
 
 > See this amazing code in action [here](link)
 
-![](link to coding train)
+Here is where I lean. [Turirial]() what did you learn
 
+![](Learning1.JPG)
+![](Learning2.JPG)
+![](Learning3.JPG)
+![](Learning4.JPG)
+![](Learning5.JPG)
+![](Learning6.JPG)
+
+
+> ![](link to coding train)
 
 ## Tic-tac-toe
 
