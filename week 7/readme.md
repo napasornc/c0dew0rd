@@ -12,7 +12,7 @@ working with pretend data
 anti climate change took it as an evidence that climate change isn't real. is code worth study as a literary source: syntex and grammar: how code is written.
 
 protest sign written in computer code: political messege. 
-example of psudeo code: non excecutable code
+example of pho code: non excecutable code
 
 ## psudeo code
 
