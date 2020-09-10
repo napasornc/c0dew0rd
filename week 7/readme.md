@@ -27,16 +27,27 @@ psudeo code: non excecutable code
 
 With another live code session with Karen, we were introduce to the P5.js Play which is, as I understood, an extended library of P5.j5. Created Paolo Pedercini, who traslate java into p5.js. I didn't even knew that P5.js has a library so I took notes in class and I will leave my note which I think is a very important resource, below.   
 
-```Note from live code (for me)
+```
+Note from live code (for me)
 
 Additional library
-P5.js = one of jave set library. Convinent for coder to publish their work on web. P5.js has a additional add on features, eg. ml5.js
-P5.play = an extened library that has all the code that already been tested - so it can be use as a skeleton for your code. The code can't be copy directly to the sketch unless the extented library is downloaded. 
+P5.js 
+= one of jave set library. Convinent for coder to publish their work on web. 
+P5.js has a additional add on features, eg. ml5.js
+
+P5.play 
+= an extened library that has all the code that already been tested - so it 
+can be use as a skeleton for your code. The code can't be copy directly to 
+the sketch unless the extented library is downloaded. 
 
 Class and features
-Sprite = a collection of image that can be animated. These pixels-based images are hold together in a grid, in one image. It's an asset that you can bring to sketch and create animation eg. stick figure.
+Sprite 
+= a collection of image that can be animated. These pixels-based images are hold 
+together in a grid, in one image. It's an asset that you can bring to sketch and 
+create animation eg. stick figure.
 
-RiTa.js = natural language processing(NLP) - computer code that help human talk with machine eg. Alexa
+RiTa.js 
+= natural language processing(NLP) - computer code that help human talk with machine eg. Alexa
 
 P5.dom = uses HTML browser commands, can be used to create pop up window
 
