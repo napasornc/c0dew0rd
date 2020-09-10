@@ -33,7 +33,9 @@ addtional library: need to tell the sketch - include this new thing. this librar
 
 sprite can be made from words/letter: anything you can draw
 
-can't copy this code to the sketch, need to download the extended library
+JAVA 
+p5.js - another language of java : can publish/edit on web
+ps play - extented library of p5.js. Tested and workso you can use as a skeleton - can't copy this code to the sketch, need to download the extended library
 
 thesis and the systhesis: text has two side.
 
