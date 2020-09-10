@@ -4,13 +4,14 @@
 
 ## virus 
 
+## Learning from other coder
+
+ask Jemie how he code 
+
 ## Tic-tac-toe
 
 this is when I am too ambitious and attemp to make a little game, tic-tac-toe. 
 
-## Learning from other coder
-
-ask Jemie how he code 
 
 
 
