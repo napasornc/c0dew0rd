@@ -30,7 +30,7 @@ With another live code session with Karen, we were introduce to the P5.js Play w
 ```
 **Note from live code (for me)**
 
-**Additional library**
+** Additional library **
 P5.js 
 = one of jave set library. Convinent for coder to publish their work on web. P5.js has 
 a additional add on features, eg. ml5.js 
