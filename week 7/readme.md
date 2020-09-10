@@ -34,7 +34,7 @@ addtional library: need to tell the sketch - include this new thing. this librar
 sprite can be made from words/letter: anything you can draw
 
 JAVA 
-p5.js - another language of java : can publish/edit on web
+p5.js - one of java set librarys. another language of java : can publish/edit on web
 ps play - extented library of p5.js. Tested and workso you can use as a skeleton - can't copy this code to the sketch, need to download the extended library
 
 thesis and the systhesis: text has two side.
@@ -42,6 +42,12 @@ thesis and the systhesis: text has two side.
 identify what kind of function/outcome you are looking for: can find what simlilar - then apply to text
 
 how would you appraoch taking code from the web: if everyone what to hide their code, we wpn't be here. give them credit too tho
+
+p5.js have additional add on feature. 
+
+Truble from working with multiplay library? - 
+
+rita - natural language processing(NLP) - computer code that help human talk with and through machine : alexie
 
 ## Sound
 
