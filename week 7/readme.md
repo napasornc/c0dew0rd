@@ -21,16 +21,16 @@ example of pho code: non excecutable code
 
 technological ephurisim: computer/code will fix all problem, utopia - more technology = better life. 
 
-__psudeo code: non excecutable code__
+psudeo code: non excecutable code
 
 ## P5.Play
 
 With another live code session with Karen, we were introduce to the P5.js Play which is, as I understood, an extended library of P5.j5. Created Paolo Pedercini, who traslate java into p5.js. I didn't even knew that P5.js has a library so I took notes in class and I will leave my note which I think is a very important resource, below.   
 
 ```
-__Note from live code (for me)__
+Note from live code (for me)
 
-** Additional library **
+Additional library
 P5.js 
 = one of jave set library. Convinent for coder to publish their work on web. P5.js has 
 a additional add on features, eg. ml5.js 
@@ -40,7 +40,7 @@ P5.play
 as a skeleton for your code. The code can't be copy directly to the sketch unless the 
 extented library is downloaded.  
 
-_Class and features_
+Class and features
 Sprite 
 = a collection of image that can be animated. These pixels-based images are hold together in a grid, 
 in one image. It's an asset that you can bring to sketch and create animation eg. stick figure.
