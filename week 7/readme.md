@@ -17,6 +17,8 @@ example of pho code: non excecutable code
 ![](FightTheCut.JPG)
 > Live pho code by Karen
 
+technological ephurisim: computer/code will fix all problem, utopia - more technology = better life. 
+
 ## psudeo code
 
 psudeo code: non excecutable code
