@@ -28,7 +28,7 @@ psudeo code: non excecutable code
 With another live code session with Karen, we were introduce to the P5.js Play which is, as I understood, an extended library of P5.j5. Created Paolo Pedercini, who traslate java into p5.js. I didn't even knew that P5.js has a library so I took notes in class and I will leave my note which I think is a very important resource, below.   
 
 ```
-**Note from live code (for me)**
+__Note from live code (for me)__
 
 ** Additional library **
 P5.js 
