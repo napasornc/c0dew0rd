@@ -27,7 +27,7 @@ psudeo code: non excecutable code
 
 With another live code session with Karen, we were introduce to the P5.js Play which is, as I understood, an extended library of P5.j5. Created Paolo Pedercini, who traslate java into p5.js. I didn't even knew that P5.js has a library so I took notes in class and I will leave my note which I think is a very important resource, below.   
 
-`Note from live code (for me)
+```Note from live code (for me)
 
 Additional library
 P5.js = one of jave set library. Convinent for coder to publish their work on web. P5.js has a additional add on features, eg. ml5.js
@@ -41,14 +41,12 @@ RiTa.js = natural language processing(NLP) - computer code that help human talk 
 P5.dom = uses HTML browser commands, can be used to create pop up window
 
 This quote by Karen help me picture what extended library can do
-"browser is the theater, canvas is the stage"`
+"browser is the theater, canvas is the stage"
+```
 
 thesis and the systhesis: text has two side.
-
 identify what kind of function/outcome you are looking for: can find what simlilar - then apply to text
-
 how would you appraoch taking code from the web: if everyone what to hide their code, we wpn't be here. give them credit too tho
-
 Truble from working with multiplay library? - 
 
 ## Sound
