@@ -21,7 +21,7 @@ example of pho code: non excecutable code
 
 technological ephurisim: computer/code will fix all problem, utopia - more technology = better life. 
 
-psudeo code: non excecutable code
+__psudeo code: non excecutable code__
 
 ## P5.Play
 
