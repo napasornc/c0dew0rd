@@ -31,6 +31,8 @@ sprite = a collection of img that is animate, get in held in one img. as asset t
 
 addtional library: need to tell the sketch - include this new thing. this library translate java to p5.js
 
+sprite can be made from words/letter: anything you can draw
+
 ## Sound
 
 
