@@ -23,19 +23,25 @@ technological ephurisim: computer/code will fix all problem, utopia - more techn
 
 psudeo code: non excecutable code
 
-## P5.js Play
+## P5.Play
 
-sprite sheet: stick figure will have to use in order to run
+With another live code session with Karen, we were introduce to the P5.js Play which is, as I understood, an extended library of P5.j5. Created Paolo Pedercini, who traslate java into p5.js. I didn't even knew that P5.js has a library so I took notes in class and I will leave my note which I think is a very important resource, below.   
 
-sprite = a collection of img that is animate, get in held in one img. as asset thaT you can bring into a sketch and make animation: pixels-based images in grid
+`Note from live code (for me)
 
-addtional library: need to tell the sketch - include this new thing. this library translate java to p5.js
+Additional library
+P5.js = one of jave set library. Convinent for coder to publish their work on web. P5.js has a additional add on features, eg. ml5.js
+P5.play = an extened library that has all the code that already been tested - so it can be use as a skeleton for your code. The code can't be copy directly to the sketch unless the extented library is downloaded. 
 
-sprite can be made from words/letter: anything you can draw
+Class and features
+Sprite = a collection of image that can be animated. These pixels-based images are hold together in a grid, in one image. It's an asset that you can bring to sketch and create animation eg. stick figure.
 
-JAVA 
-p5.js - one of java set librarys. another language of java : can publish/edit on web
-ps play - extented library of p5.js. Tested and workso you can use as a skeleton - can't copy this code to the sketch, need to download the extended library
+RiTa.js = natural language processing(NLP) - computer code that help human talk with machine eg. Alexa
+
+P5.dom = uses HTML browser commands, can be used to create pop up window
+
+This quote by Karen help me picture what extended library can do
+"browser is the theater, canvas is the stage"`
 
 thesis and the systhesis: text has two side.
 
@@ -43,24 +49,13 @@ identify what kind of function/outcome you are looking for: can find what simlil
 
 how would you appraoch taking code from the web: if everyone what to hide their code, we wpn't be here. give them credit too tho
 
-p5.js have additional add on feature. 
-
 Truble from working with multiplay library? - 
-
-***note to self
-rita - natural language processing(NLP) - computer code that help human talk with and through machine : alexie
-
-p5.dom = uses HTML browser commands
-- pop up window
-
-browser is the theater
-canvas is the stage
-
-ml5.js
 
 ## Sound
 
 the sketch will add sound.min to library and index html
+We are challenge to think in a computational language - a computational systemetic thinking. 
+
 
 what do I learn
 variable 
