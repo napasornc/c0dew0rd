@@ -47,7 +47,16 @@ p5.js have additional add on feature.
 
 Truble from working with multiplay library? - 
 
+***note to self
 rita - natural language processing(NLP) - computer code that help human talk with and through machine : alexie
+
+p5.dom = uses HTML browser commands
+- pop up window
+
+browser is the theater
+canvas is the stage
+
+ml5.js
 
 ## Sound
 
