@@ -23,6 +23,14 @@ technological ephurisim: computer/code will fix all problem, utopia - more techn
 
 psudeo code: non excecutable code
 
+## P5.js Play
+
+sprite sheet: stick figure will have to use in order to run
+
+sprite = a collection of img that is animate, get in held in one img. as asset thaT you can bring into a sketch and make animation: pixels-based images in grid
+
+addtional library: need to tell the sketch - include this new thing. this library translate java to p5.js
+
 ## Sound
 
 
