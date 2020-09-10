@@ -40,7 +40,7 @@ P5.play
 as a skeleton for your code. The code can't be copy directly to the sketch unless the 
 extented library is downloaded.  
 
-**Class and features**
+_Class and features_
 Sprite 
 = a collection of image that can be animated. These pixels-based images are hold together in a grid, 
 in one image. It's an asset that you can bring to sketch and create animation eg. stick figure.
