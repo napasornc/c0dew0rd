@@ -62,4 +62,12 @@ ml5.js
 
 the sketch will add sound.min to library and index html
 
+what do I learn
+variable 
+refer to function in a line of code. isPLay is a function(comes with the library)
+property >>> look for property of the song - the state of the song
+if and else statement
+proload: can load the sound in before loadSound. If you have larger file - it will load the file before running everything else. 
+
+
 
