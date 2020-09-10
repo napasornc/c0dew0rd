@@ -5,6 +5,8 @@ In the beginning of the class we refelct back to what we learnt in the past six 
 ## Showing paper prototype 
 I was fairly stuck: With smaller group of my classmates telling their : showing paper prototype 
 
+problem = paper protottype
+solution = how to translating that into code
 
 ## The critical code
 coder's comment
@@ -19,9 +21,11 @@ example of pho code: non excecutable code
 
 technological ephurisim: computer/code will fix all problem, utopia - more technology = better life. 
 
-## psudeo code
-
 psudeo code: non excecutable code
+
+## Sound
+
+
  
 
 
