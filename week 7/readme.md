@@ -60,7 +60,6 @@ ml5.js
 
 ## Sound
 
-
- 
+the sketch will add sound.min to library and index html
 
 
