@@ -10,6 +10,7 @@ As I was browsing through everyone else github, I came across this beautiful web
 
 ![](jamie's code)
 > Code by Jamie Tung 
+
 > See this amazing code in action [here](link)
 
 ![](link to coding train)
