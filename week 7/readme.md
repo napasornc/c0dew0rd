@@ -33,6 +33,14 @@ addtional library: need to tell the sketch - include this new thing. this librar
 
 sprite can be made from words/letter: anything you can draw
 
+can't copy this code to the sketch, need to download the extended library
+
+thesis and the systhesis: text has two side.
+
+identify what kind of function/outcome you are looking for: can find what simlilar - then apply to text
+
+how would you appraoch taking code from the web: if everyone what to hide their code, we wpn't be here. give them credit too tho
+
 ## Sound
 
 
