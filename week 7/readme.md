@@ -14,6 +14,9 @@ anti climate change took it as an evidence that climate change isn't real. is co
 protest sign written in computer code: political messege. 
 example of pho code: non excecutable code
 
+![](FightTheCut.JPG)
+> Live pho code by Karen
+
 ## psudeo code
 
 psudeo code: non excecutable code
