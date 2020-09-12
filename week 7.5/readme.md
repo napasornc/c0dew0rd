@@ -11,7 +11,7 @@ During the break I have been pulling our key text and study text. I wasn't sure 
 
 As I was browsing through everyone else github, I came across this beautiful web collage on [Jamie's github](https://github.com/Jamtt/Codewords). I was thinking of doing something similar for my GKO so I decided to learn from his code. 
 
-![](jamieCode.JPG)
+![](JamieCode.JPG)
 
 > Code by Jamie Tung 
 
