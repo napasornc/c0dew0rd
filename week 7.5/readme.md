@@ -4,7 +4,9 @@ During the break I have been pulling our key text and study text. I wasn't sure 
 
 ## Blackletter and Black metal
 
-<img src="Blackletter.JPG" width="40%">
+<img src="Blackletter.JPG" width="50%">
+
+> read [here](http://digbeyond.com/readme/view.php?id=53)
 
 ```
 The logo is a password-behind it, a secret world is waiting. Illegible logos and messages are an unprecedented 
@@ -13,11 +15,9 @@ and
 Its systematic illegibility has a self-cancelling quality to it; a message erased at the very moment it is transmitted.
 ```
 
-> read [here](http://digbeyond.com/readme/view.php?id=53)
-
 ## Viruses are good for you 
 
-![](Viruses.JPG)
+<img src="Viruses.JPG" width="50%">
 
 > read [here](http://digbeyond.com/readme/view.php?id=108&course=Code%20Words)
 
@@ -25,7 +25,7 @@ Its systematic illegibility has a self-cancelling quality to it; a message erase
 
 As I was browsing through everyone else github, I came across this beautiful web collage on [Jamie's github](https://github.com/Jamtt/Codewords). I was thinking of doing something similar for my GKO so I decided to learn from his code. 
 
-![](JamieCode.JPG)
+<img src="JamieCode.JPG" width="80%">
 
 > Code by Jamie Tung 
 
