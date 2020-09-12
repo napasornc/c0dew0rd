@@ -5,11 +5,17 @@ In the beginning of the class we refelct back to what we learnt in the past six 
 ## Showing paper prototype 
 I was fairly stuck with paper prototype over the break, not being able to create prototype from extracted keyword. After changing the text to Viruses are good for you, I have a fairly vague idea of making text duplicate itslef endlessly. In a small group discussion, I show three prototype to Tayler and Ruby. Text replicate itself is the first idea, pop up window is a second idea, and broken text is the last idea. They suggest that replicating text and pop up window is interesting. They also suggest that making these test interactive can be more engaging eg. have a slider.  
 
+![](Prototype.JPG)
+
 ```
 "problem = paper protottype
 solution = how to translating that into code"
 ```
 > another good qoute from Andy that sum up this process very well
+
+When some students share their prototype with the rest of the class, I get to see one of the prototype for the same text which is very interesting because we have some overlaping concept in our prototype but still different. I probably down to the fact that we pick different section of the text to develop our idea. 
+
+![](ClassPrototype.JPG)
 
 ## The critical code
 coder's comment
