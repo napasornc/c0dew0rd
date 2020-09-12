@@ -29,7 +29,7 @@ this is when I am too ambitious and attemp to make a little game, tic-tac-toe.
 
 ![](TicTacToe.JPG)
 
-> you can find the orginal code here
+> you can find the orginal code [here]()
 
 > there is no action for this game yet
 
