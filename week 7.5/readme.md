@@ -1,20 +1,23 @@
 # Mid semester _ text research _ continue to think with paper
 
-## Metahaven
+During the break I have been pulling our key text and study text. I wasn't sure which text to use so I read all of them again and decide to go with "Blackletter and Black metal" but I also have three others choices in case I lost interest in this text; Viruses are good for you, The posthuman, and The Wretch of the screen. I like the idea of diversity so I lean toward text written or co-written by women but I feel connected with Viruses are good for you. 
 
-## virus 
+## Blackletter and Black metal
+
+
+## Viruses are good for you 
 
 ## Learning from other coder
 
-As I was browsing through everyone else github, I came across this beautiful web collage on [Jamie's github](). I was thinking of doing something similar for my GKO so I decided to learn from his code. 
+As I was browsing through everyone else github, I came across this beautiful web collage on [Jamie's github](https://github.com/Jamtt/Codewords). I was thinking of doing something similar for my GKO so I decided to learn from his code. 
 
-![](jamie's code)
+![](jamieCode.JPG)
 
 > Code by Jamie Tung 
 
-> See this amazing code [here](link)
+> See this amazing code in action [here](https://jamtt.github.io/Codewords/Files/LaurenCollage/)
 
-Here is where I lean. [Turirial]() what did you learn
+I didn't know how to best understand his code so I study line by line. Looking for toturial online explaining basic of P5.js. Someone suggest youtube channel called [The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) on the first week so I check it out. It is a good resource, the host cover topic from basic introduction to P5.js to animation to interaction to duplication. Here is the note I took from toturial. I wasn't quite sure how to sytax is suppose to be used still.
 
 ```
 //Variables
@@ -233,13 +236,13 @@ show() {
 
 ## Tic-tac-toe
 
-this is when I am too ambitious and attemp to make a little game, tic-tac-toe. 
+This is when I was too ambitious and attempted to make a little game, tic-tac-toe. I would like to add button and use `push`function to push the X and O into the array so I can place one at a time. However, once I attach function to variable, I can't get the code to work. I think I need to figure out the exactly position for X and O in `function mousePressed()`. I haven't figure out how to do that yet but I'll update this github once I solve it.    
 
 ![](TicTacToe.JPG)
 
-> code by 
+> code by The Coding Train
 
-> you can find the orginal code [here]()
+> orginal code can be found [here](https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_149_Tic_Tac_Toe/P5)
 
 
 
