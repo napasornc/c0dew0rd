@@ -19,7 +19,9 @@ When some students share their prototype with the rest of the class, I get to se
 
 ## The critical code
 
-[The critical code](https://mitpress.mit.edu/books/critical-code-studies#:~:text=Critical%20Code%20Studies%20provides%20model,source%20codes%20of%20digital%20culture.%E2%80%9D)
+We are moved on to talk about the validity of coding language. Introducing the debate whether to study coding language as another form of literature. Brought up as a part of the debate is this book called, [The critical code](https://mitpress.mit.edu/books/critical-code
+studies#:~:text=Critical%20Code%20Studies%20provides%20model,source%20codes%20of%20digital%20culture.%E2%80%9D). The book suggest that code should be read interpretively, the meaning of code should be studied. Not to argue with the book but I wonder if the code or coder's comment was taken out of the context of computational language and start to become a part of political concern, wouldn't that saturate the meaning of a certain line of code? Because one line of code is attached to other line of code for the entire code to function.
+
 coder's comment
 working with pretend data
 anti climate change took it as an evidence that climate change isn't real. is code worth study as a literary source: syntex and grammar: how code is written.
@@ -67,12 +69,12 @@ This quote by Karen help me picture what extended library can do
 "browser is the theater, canvas is the stage"
 ```
 
+![](P5.play.JPG)
+
 thesis and the systhesis: text has two side.
 identify what kind of function/outcome you are looking for: can find what simlilar - then apply to text
 how would you appraoch taking code from the web: if everyone what to hide their code, we wpn't be here. give them credit too tho
 Truble from working with multiplay library? - 
-
-![](P5.play.JPG)
 
 ## Sound
 
