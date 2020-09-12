@@ -22,6 +22,7 @@ When some students share their prototype with the rest of the class, I get to se
 We are moved on to talk about the validity of coding language. Introducing the debate whether to study coding language as another form of literature. Brought up as a part of the debate is this book called, [The critical code](https://mitpress.mit.edu/books/critical-codestudies#:~:text=Critical%20Code%20Studies%20provides%20model,source%20codes%20of%20digital%20culture.%E2%80%9D). The book suggest that code should be read interpretively, the meaning of code should be studied. Not to argue with the book but I wonder if the code or coder's comment was taken out of the context of computational language and start to become a part of political concern, wouldn't that saturate the meaning of a certain line of code? Because one line of code is attached to other lines of code for the entire code to function. Like taking text out of context or enitre narrative. It can lead to misunderstanding, if we are debating on facts. From this book Keran and Andy pointed out that anti-climatechange group have use code to support their serious scientisfic issue like climate change have been 
 
 ![](FightTheCut.JPG)
+
 > Live pho code by Karen
 
 working with pretend data
