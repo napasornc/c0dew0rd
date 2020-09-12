@@ -1,4 +1,4 @@
-# Mid semester _ text research _ continue to think with paper
+# Week 7.5_continue to think with paper :v:
 
 During the break I have been pulling our key text and study text. I wasn't sure which text to use so I read all of them again and decide to go with "Blackletter and Black metal" but I also have three others choices in case I lost interest in this text; Viruses are good for you, The posthuman, and The Wretch of the screen. I like the idea of diversity so I lean toward text written or co-written by women but I feel connected with Viruses are good for you. 
 
