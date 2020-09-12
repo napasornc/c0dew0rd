@@ -37,6 +37,7 @@ Virus are the electronic form of graffiti
 As I was browsing through everyone else github, I came across this beautiful web collage on [Jamie's github](https://github.com/Jamtt/Codewords). I was thinking of doing something similar for my GKO so I decided to learn from his code. 
 
 <img src="JamieCode.JPG" width="80%">
+
 > Code by Jamie Tung 
 
 > See this amazing code in action [here](https://jamtt.github.io/Codewords/Files/LaurenCollage/)
