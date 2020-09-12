@@ -5,7 +5,6 @@ During the break I have been pulling our key text and study text. I wasn't sure 
 ## Blackletter and Black metal
 
 <img src="Blackletter.JPG" width="50%">
-
 > read [here](http://digbeyond.com/readme/view.php?id=53)
 
 ```
@@ -26,9 +25,7 @@ Its systematic illegibility has a self-cancelling quality to it; a message erase
 As I was browsing through everyone else github, I came across this beautiful web collage on [Jamie's github](https://github.com/Jamtt/Codewords). I was thinking of doing something similar for my GKO so I decided to learn from his code. 
 
 <img src="JamieCode.JPG" width="80%">
-
 > Code by Jamie Tung 
-
 > See this amazing code in action [here](https://jamtt.github.io/Codewords/Files/LaurenCollage/)
 
 I didn't know how to best understand his code so I study line by line. Looking for toturial online explaining basic of P5.js. Someone suggest youtube channel called [The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) on the first week so I check it out. It is a good resource, the host cover topic from basic introduction to P5.js to animation to interaction to duplication. Here is the note I took from toturial. I wasn't quite sure how to sytax is suppose to be used still.
@@ -253,9 +250,7 @@ show() {
 This is when I was too ambitious and attempted to make a little game, tic-tac-toe. I would like to add button and use `push`function to push the X and O into the array so I can place one at a time. However, once I attach function to variable, I can't get the code to work. I think I need to figure out the exactly position for X and O in `function mousePressed()`. I haven't figure out how to do that yet but I'll update this github once I solve it.    
 
 ![](TicTacToe.JPG)
-
 > code by The Coding Train
-
 > orginal code can be found [here](https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_149_Tic_Tac_Toe/P5)
 
 
