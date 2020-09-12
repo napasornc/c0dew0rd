@@ -19,21 +19,13 @@ When some students share their prototype with the rest of the class, I get to se
 
 ## The critical code
 
-We are moved on to talk about the validity of coding language. Introducing the debate whether to study coding language as another form of literature. Brought up as a part of the debate is this book called, [The critical code](https://mitpress.mit.edu/books/critical-codestudies#:~:text=Critical%20Code%20Studies%20provides%20model,source%20codes%20of%20digital%20culture.%E2%80%9D). The book suggest that code should be read interpretively, the meaning of code should be studied. Not to argue with the book but I wonder if the code or coder's comment was taken out of the context of computational language and start to become a part of political concern, wouldn't that saturate the meaning of a certain line of code? Because one line of code is attached to other lines of code for the entire code to function. Like taking text out of context or enitre narrative. It can lead to misunderstanding, if we are debating on facts. From this book Keran and Andy pointed out that anti-climatechange group have use code to support their serious scientisfic issue like climate change have been 
+We are moved on to talk about the validity of coding language. Introducing the debate whether to study coding language as another form of literature. Brought up as a part of the debate is this book called, [The critical code](https://mitpress.mit.edu/books/critical-codestudies#:~:text=Critical%20Code%20Studies%20provides%20model,source%20codes%20of%20digital%20culture.%E2%80%9D). The book suggest that code should be read interpretively, the meaning of code and how the code is wriiten (syntax and grammar) should be studied. Not to argue with the book but I wonder if the code or coder's comment was taken out of the context of computational language and start to become a part of political concern, wouldn't that saturate the meaning of a certain line of code? Because one line of code is attached to other lines of code for the entire code to function. Taking text out of context or enitre narrative, can lead to misunderstanding if we are debating with facts. For example, from this book Keran and Andy pointed out that anti-climate change group have use code to support their theory that climate change isn't real. The topic Karen picked to demonstrate is the RMIT paid cut.
 
 ![](FightTheCut.JPG)
 
 > Live pho code by Karen
 
-working with pretend data
-anti climate change took it as an evidence that climate change isn't real. is code worth study as a literary source: syntex and grammar: how code is written.
-
-protest sign written in computer code: political messege. 
-example of pho code: non excecutable code
-
-technological ephurisim: computer/code will fix all problem, utopia - more technology = better life. 
-
-psudeo code: non excecutable code
+With that in mind we were shown a photo of protest sign that send out political message written in computer code. It is a faux code, a pretend data that computer can't execute. Introduce me to technoutopianism, an ideology that technology will bring about utopia. It was new to me so I search it up and I found this article called [The dark side of technoutopianism](https://www.newyorker.com/magazine/2019/09/30/the-dark-side-of-techno-utopianism). From the article, misleading language and ideology spread like virus faster than ever because it's possible thanks to social media. I guess the question here is when to bring in editor, mornitoring what get to be shared with the world. Maybe this is when the role of coder and developer start to shift, not only being creator but content controller. To sum it up, it would be nice if we can Ctrl+Alt+Delete our world. Apart from this ideology, I get to see our thinking translate into computational language.  
 
 ## P5.Play
 
