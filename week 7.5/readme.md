@@ -42,7 +42,7 @@ As I was browsing through everyone else github, I came across this beautiful web
 
 > See this amazing code in action [here](https://jamtt.github.io/Codewords/Files/LaurenCollage/)
 
-I didn't know how to best understand his code so I study line by line. Looking for toturial online explaining basic of P5.js. Someone suggest youtube channel called [The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) on the first week so I check it out. It is a good resource, the host cover topic from basic introduction to P5.js to animation to interaction to duplication. Here is the note I took from toturial. I wasn't quite sure how to sytax is suppose to be used still.
+I didn't know how to best understand his code so I study line by line. Looking for toturial online explaining basic of P5.js. Someone suggest youtube channel called [The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) on the first week so I check it out. It is a good resource, the host cover topic from basic introduction to P5.js to animation to interaction to duplication. I wasn't quite sure how to sytax is suppose to be used still. Here is the note I took from toturial. :point_down:
 
 ## Variables
 
