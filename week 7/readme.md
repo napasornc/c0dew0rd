@@ -74,7 +74,6 @@ Truble from working with multiplay library? -
 
 ![](P5.play.JPG)
 
-
 ## Sound
 
 the sketch will add sound.min to library and index html
@@ -89,7 +88,7 @@ property >>> look for property of the song - the state of the song
 if and else statement
 proload: can load the sound in before loadSound. If you have larger file - it will load the file before running everything else.
 
-## Mixing paper idea
+## Paper and pseudo
 
 
 
