@@ -22,13 +22,15 @@ After that, we visit the replica of Melbourne CBD in Minecraft. Whe were in a bu
 
 In class, Karen get us started with simple geometric shape. We also learnt the use of `mouseX`and `mouseY` as a crontroller. After class, I was trying to get familar with processing so I made one block model letter and play with it a little bit. In my little experiment, I discover `arc` and `angleMode`. Although, I didn't use any of them in my initial letter, I still think it's valuable for Major project.
 
-![](O.JPG)
-![](Letter.JPG)
+<img src="O.JPG" width="40%">
+<img src="Letter.JPG" width="40%">
+
 > see in action [here](http://127.0.0.1:8699/) 
 
 Then I move one to create letter N. I first drew with rectangle shape first then I start looking at the coordinate I use to map. I replace first 2 coordinate with `mouseX` and `mouseY` in order to animate the letter.
 
-![](N.JPG)
+<img src="N.JPG" width="40%">
+
 > see in action [here](http://127.0.0.1:8818/)
 
 
