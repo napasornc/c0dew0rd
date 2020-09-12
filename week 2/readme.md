@@ -11,6 +11,7 @@ which is very interesting because we were discussing the relation between type a
 human, human to machine. 
 
 <img src="https://i.pinimg.com/originals/a4/a9/96/a4a9967025137f040064f162a808b908.jpg" width="50%">
+
 > image by MoMA
 
 I am also doing [100 Days project](https://www.instagram.com/napasorndesign/?hl=en) at the same time so I dedicate 1 week to recreate work in Igarashi style. Using axonometric drawing as a skeleton. I made a sketch and execute each pieces on illustrator as well.
@@ -24,6 +25,7 @@ Next we discuss reading in virtual space, ranging from [performace art](https://
 The reading can be the disruption in virtual world or the addtion to the world, using what is in the game to portrait narrative. My group choose SIM 4 as our platform which allow us to building hunting house. 
 
 ![](https://media.giphy.com/media/rjSKNuaapUFCo/giphy.gif)
+
 > image by Pedestrian TV
 
 ## P5.js
@@ -36,6 +38,7 @@ We transition to processing. Learning to code from other coder. We are promtped 
 We also learn how to make spiralgraph type. Using `translate(movement,movement)`, `angleRotation`, and `angleMode`. We learn to control the speed with `frameRate`
 
 <img src="Spiral.JPG" width="60%">
+
 > see in action [here](http://127.0.0.1:8842/)
 
 
