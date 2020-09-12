@@ -12,7 +12,7 @@ As I was browsing through everyone else github, I came across this beautiful web
 
 > Code by Jamie Tung 
 
-> See this amazing code in action [here](link)
+> See this amazing code [here](link)
 
 Here is where I lean. [Turirial]() what did you learn
 
