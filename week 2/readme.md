@@ -10,13 +10,13 @@ geometric shape, inspired by international swiss style. In his [Lecture with UCL
 which is very interesting because we were discussing the relation between type and digital space last week. We can see that it flow both ways - machine to 
 human, human to machine. 
 
-![](https://i.pinimg.com/originals/a4/a9/96/a4a9967025137f040064f162a808b908.jpg) 
+<img src="https://i.pinimg.com/originals/a4/a9/96/a4a9967025137f040064f162a808b908.jpg" width="50%">
 > image by MoMA
 
 I am also doing [100 Days project](https://www.instagram.com/napasorndesign/?hl=en) at the same time so I dedicate 1 week to recreate work in Igarashi style. Using axonometric drawing as a skeleton. I made a sketch and execute each pieces on illustrator as well.
 
-![](Hamgry.jpg)
-![](Sor8.jpg)
+<img src="Hamgry.jpg" width="50%">
+<img src="Sor8.jpg" width="50%">
 
 ## House of Leaves
 
@@ -35,7 +35,7 @@ We transition to processing. Learning to code from other coder. We are promtped 
 
 We also learn how to make spiralgraph type. Using `translate(movement,movement)`, `angleRotation`, and `angleMode`. We learn to control the speed with `frameRate`
 
-![](Spiral.JPG)
+<img src="Spiral.JPG" width="50%">
 > see in action [here](http://127.0.0.1:8842/)
 
 
