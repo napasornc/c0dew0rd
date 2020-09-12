@@ -4,8 +4,16 @@ During the break I have been pulling our key text and study text. I wasn't sure 
 
 ## Blackletter and Black metal
 
+![](Blackletter.JPG)
+
+> read [here](http://digbeyond.com/readme/view.php?id=53)
+
 
 ## Viruses are good for you 
+
+![](Viruses.JPG)
+
+> read [here](http://digbeyond.com/readme/view.php?id=108&course=Code%20Words)
 
 ## Learning from other coder
 
