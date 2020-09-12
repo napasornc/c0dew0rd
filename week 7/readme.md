@@ -86,7 +86,13 @@ variable
 refer to function in a line of code. isPLay is a function(comes with the library)
 property >>> look for property of the song - the state of the song
 if and else statement
-proload: can load the sound in before loadSound. If you have larger file - it will load the file before running everything else. 
+proload: can load the sound in before loadSound. If you have larger file - it will load the file before running everything else.
+
+## Mixing paper idea
+
+
+
+
 
 
 
