@@ -23,7 +23,7 @@ We are moved on to talk about the validity of coding language. Introducing the d
 
 ![](FightTheCut.JPG)
 
-> Live pho code by Karen
+> Live faux code by Karen
 
 With that in mind we were shown a photo of protest sign that send out political message written in computer code. It is a faux code, a pretend data that computer can't execute. Introduce me to technoutopianism, an ideology that technology will bring about utopia. It was new to me so I search it up and I found this article called [The dark side of technoutopianism](https://www.newyorker.com/magazine/2019/09/30/the-dark-side-of-techno-utopianism). From the article, misleading language and ideology spread like virus faster than ever because it's possible thanks to social media. I guess the question here is when to bring in editor, mornitoring what get to be shared with the world. Maybe this is when the role of coder and developer start to shift, not only being creator but content controller. To sum it up, it would be nice if we can Ctrl+Alt+Delete our world. Apart from this ideology, I get to see our thinking translate into computational language.  
 
@@ -58,27 +58,52 @@ P5.dom
 ```
 "browser is the theater, canvas is the stage"
 ```
-> This quote by Karen help me picture what extended library can do
+> This quote by Karen help me picture the extended library
 
 ![](P5.play.JPG)
 
-thesis and the systhesis: text has two side.
-identify what kind of function/outcome you are looking for: can find what simlilar - then apply to text
-how would you appraoch taking code from the web: if everyone what to hide their code, we wpn't be here. give them credit too tho
-Truble from working with multiplay library? - 
+Showing us the thinking process necessary for developing your own code. By outline what kind of outcome you are looking for then look for code from others that produce similar outcome - learning from other codernon web but not copy. Library gives a greate resource.  
 
 ## Sound
 
-the sketch will add sound.min to library and index html
-We are challenge to think in a computational language - a computational systemetic thinking. 
+There are important steps when adding sound to P5.js, which I will put below.
+
+```
+Add P5.sound 
+= the sketch will add sound.min to library and index html
+
+Add mp3 by using function preload or loadSound
+```
 
 ![](Sound.JPG)
 
-what do I learn
-variable 
-refer to function in a line of code. isPLay is a function(comes with the library)
-property >>> look for property of the song - the state of the song
-if and else statement
-proload: can load the sound in before loadSound. If you have larger file - it will load the file before running everything else.
+I have attempt play with sound before but this coding session I understand the use of variable and property more. From the tutorial from video made by coding train, variable is placed at the top but I didn't know about variable within function which can be discarded. Here is note for next time I remix a song.
 
+```
+//Add sound
+function preload(){
+  song = loadSound('folder name/name of the file'); 
+  //great to use when the file is big because
+    it will load the file before running everything else.
+//or
+function setup() {
+  song = loadSound('folder name/name of the file');
+  
+//reusable P5-widget
+analyzer = new p5.Amplitude(); 
+  analyzer.setInput(song); 
+  //telling Amplitude function to look for song amplitude
+
+//To debug
+text(int(variable),width,height);
+
+//Attribute
+song.play(); 
+//if . is in the middle, we are looking for a property which is 
+the state of the variable song. Property of the song is play 
+
+//function in a line of code
+if (song.isPlaying()){
+//isPLay is a function which comes with the library
+```
 
