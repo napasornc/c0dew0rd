@@ -20,11 +20,6 @@ We jump into group discussion about expectation for Major project. Transition to
 
 > read [here](http://digbeyond.com/readme/view.php?id=55&course=Code%20Words)
 
-## Picking text
-
-blackletter and black metal by Metahaven, 
-
-> read [here](http://digbeyond.com/readme/JPG/Metahaven_Uncorporate_Identity_2010_bw.pdf)
 
 
 
