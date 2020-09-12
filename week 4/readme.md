@@ -22,7 +22,7 @@ One of the perk is sim illustrate realitic ruducting version of human relationsh
 
 We learn function preload and create spinning movement using syntax `spin`, `translate`, and controling speed with `frameRate`. Function preload allow us to use font in .oft and .tff format file. 
 
-![](Spin.JPG)
+<img src="Spin.JPG" width="70%">
 > see in action [here](http://127.0.0.1:8287/)
 
 > github can be found [here]
