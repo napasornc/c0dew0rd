@@ -33,6 +33,7 @@ The reading can be the disruption in virtual world or the addtion to the world, 
 We transition to processing. Learning to code from other coder. We are promtped to pick class mate's letter and reinterpret it. I chose letter `HP` from Hamish. He build letter from block of retangle then subtract with ellipse shape. I animate his letter and adjust the stroke width. This excercise stoodout to me because I always want to come up with orginal idea but learning that idea can come from improving other idea is mindblowing. 
 
 <img src="HP.JPG" width="60%">
+
 > see in action [here](http://127.0.0.1:8215/)
 
 We also learn how to make spiralgraph type. Using `translate(movement,movement)`, `angleRotation`, and `angleMode`. We learn to control the speed with `frameRate`
