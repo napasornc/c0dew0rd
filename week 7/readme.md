@@ -64,9 +64,9 @@ P5.dom
 = uses HTML browser commands, can be used to create pop up window
 ```
 ```
-This quote by Karen help me picture what extended library can do
 "browser is the theater, canvas is the stage"
 ```
+> This quote by Karen help me picture what extended library can do
 
 ![](P5.play.JPG)
 
