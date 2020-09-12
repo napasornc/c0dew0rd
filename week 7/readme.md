@@ -5,7 +5,11 @@ In the beginning of the class we refelct back to what we learnt in the past six 
 ## Showing paper prototype 
 I was fairly stuck with paper prototype over the break, not being able to create prototype from extracted keyword. After changing the text to Viruses are good for you, I have a fairly vague idea of making text duplicate itslef endlessly. In a small group discussion, I show three prototype to Tayler and Ruby. Text replicate itself is the first idea, pop up window is a second idea, and broken text is the last idea. They suggest that replicating text and pop up window is interesting. They also suggest that making these test interactive can be more engaging eg. have a slider.  
 
-![](Prototype.JPG)
+<img src="Prototype.JPG" width="70%">
+
+When some students share their prototype with the rest of the class, I get to see one of the prototype for the same text which is very interesting because we have some overlaping concept in our prototype but still different. I probably down to the fact that we pick different section of the text to develop our idea. 
+
+<img src="ClassPrototype.png" width="70%">
 
 ```
 "problem = paper protottype
@@ -13,15 +17,12 @@ solution = how to translating that into code"
 ```
 > another good qoute from Andy that sum up this process very well
 
-![](ClassPrototype.png)
-
-When some students share their prototype with the rest of the class, I get to see one of the prototype for the same text which is very interesting because we have some overlaping concept in our prototype but still different. I probably down to the fact that we pick different section of the text to develop our idea. 
-
 ## The critical code
 
 We are moved on to talk about the validity of coding language. Introducing the debate whether to study coding language as another form of literature. Brought up as a part of the debate is this book called, [The critical code](https://mitpress.mit.edu/books/critical-codestudies#:~:text=Critical%20Code%20Studies%20provides%20model,source%20codes%20of%20digital%20culture.%E2%80%9D). The book suggest that code should be read interpretively, the meaning of code and how the code is wriiten (syntax and grammar) should be studied. Not to argue with the book but I wonder if the code or coder's comment was taken out of the context of computational language and start to become a part of political concern, wouldn't that saturate the meaning of a certain line of code? Because one line of code is attached to other lines of code for the entire code to function. Taking text out of context or enitre narrative, can lead to misunderstanding if we are debating with facts. For example, from this book Keran and Andy pointed out that anti-climate change group have use code to support their theory that climate change isn't real. The topic Karen picked to demonstrate is the RMIT paid cut.
 
 <img src="FightTheCut.JPG" width="70%">
+
 > Live faux code by Karen
 
 With that in mind we were shown a photo of protest sign that send out political message written in computer code. It is a faux code, a pretend data that computer can't execute. Introduce me to technoutopianism, an ideology that technology will bring about utopia. It was new to me so I search it up and I found this article called [The dark side of technoutopianism](https://www.newyorker.com/magazine/2019/09/30/the-dark-side-of-techno-utopianism). From the article, misleading language and ideology spread like virus faster than ever because it's possible thanks to social media. I guess the question here is when to bring in editor, mornitoring what get to be shared with the world. Maybe this is when the role of coder and developer start to shift, not only being creator but content controller. To sum it up, it would be nice if we can Ctrl+Alt+Delete our world. Apart from this ideology, I get to see our thinking translate into computational language.  
@@ -60,6 +61,7 @@ P5.dom
 > This quote by Karen help me picture the extended library
 
 <img src="P5.play.JPG" width="50%">
+
 > image and code by [Paolo Pedercini](https://molleindustria.org/)
 
 Showing us the thinking process necessary for developing your own code. By outline what kind of outcome you are looking for then look for code from others that produce similar outcome - learning from other codernon web but not copy. Library gives a greate resource.  
