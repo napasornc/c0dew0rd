@@ -64,11 +64,14 @@ identify what kind of function/outcome you are looking for: can find what simlil
 how would you appraoch taking code from the web: if everyone what to hide their code, we wpn't be here. give them credit too tho
 Truble from working with multiplay library? - 
 
+![](P5.play.JPG)
+
 ## Sound
 
 the sketch will add sound.min to library and index html
 We are challenge to think in a computational language - a computational systemetic thinking. 
 
+![](Sound.JPG)
 
 what do I learn
 variable 
