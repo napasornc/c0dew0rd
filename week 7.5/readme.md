@@ -4,11 +4,11 @@ During the break I have been pulling our key text and study text. I wasn't sure 
 
 ## Blackletter and Black metal
 
+Blackletter and Black metal was written by a couple, Vinca kruk and Daniel van der velden, they goes by named [Metahaven](http://metahaven.net/). Describing logo of black metal around the world as an encryptic code. It has the elements of being in a hidden world, the logo is a password because it's illegible/ambiguous, only the fan can recognize it. Language and branding for Black meltal band reduce value of the high culture art, it criticize the world even if they do it with the image of horror and madness. 
+
 <img src="Blackletter.JPG" width="50%">
 
 > read [here](http://digbeyond.com/readme/view.php?id=53)
-
-Blackletter and Black metal was written by a couple, Vinca kruk and Daniel van der velden, they goes by named [Metahaven](http://metahaven.net/). Describing logo of black metal around the world as an encryptic code. It has the elements of being in a hidden world, the logo is a password because it's illegible/ambiguous, only the fan can recognize it. Language and branding for Black meltal band reduce value of the high culture art, it criticize the world even if they do it with the image of horror and madness. 
 
 ```
 The logo is a password-behind it, a secret world is waiting. Illegible logos and messages are an unprecedented 
@@ -21,11 +21,11 @@ My initial lidea is to creaate a mini puzzel game that reader need to find a pas
 
 ## Viruses are good for you 
 
+Viruses are good for you by [Julian Dibbell](http://www.juliandibbell.com/about/) 
+
 <img src="Viruses.JPG" width="50%">
 
 > read [here](http://digbeyond.com/readme/view.php?id=108&course=Code%20Words)
-
-Viruses are good for you by [Julian Dibbell](http://www.juliandibbell.com/about/) 
 
 ```
 Virus are the electronic form of graffiti
