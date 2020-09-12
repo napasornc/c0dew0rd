@@ -18,6 +18,8 @@ solution = how to translating that into code"
 When some students share their prototype with the rest of the class, I get to see one of the prototype for the same text which is very interesting because we have some overlaping concept in our prototype but still different. I probably down to the fact that we pick different section of the text to develop our idea. 
 
 ## The critical code
+
+[The critical code](https://mitpress.mit.edu/books/critical-code-studies#:~:text=Critical%20Code%20Studies%20provides%20model,source%20codes%20of%20digital%20culture.%E2%80%9D)
 coder's comment
 working with pretend data
 anti climate change took it as an evidence that climate change isn't real. is code worth study as a literary source: syntex and grammar: how code is written.
@@ -34,7 +36,7 @@ psudeo code: non excecutable code
 
 ## P5.Play
 
-With another live code session with Karen, we were introduce to the P5.js Play which is, as I understood, an extended library of P5.j5. Created Paolo Pedercini, who traslate java into p5.js. I didn't even knew that P5.js has a library so I took notes in class and I will leave my note which I think is a very important resource, below.   
+With another live code session with Karen, we were introduce to the [P5.js Play](https://molleindustria.github.io/p5.play/) which is, as I understood, an extended [library of P5.j5](https://p5js.org/libraries/). Created Paolo Pedercini, who traslate java into p5.js. I didn't even knew that P5.js has a library so I took notes in class and I will leave my note which I think is a very important resource, below.   
 
 ```
 Note from live code (for me)
