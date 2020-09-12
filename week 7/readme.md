@@ -13,9 +13,9 @@ solution = how to translating that into code"
 ```
 > another good qoute from Andy that sum up this process very well
 
-When some students share their prototype with the rest of the class, I get to see one of the prototype for the same text which is very interesting because we have some overlaping concept in our prototype but still different. I probably down to the fact that we pick different section of the text to develop our idea. 
-
 ![](ClassPrototype.JPG)
+
+When some students share their prototype with the rest of the class, I get to see one of the prototype for the same text which is very interesting because we have some overlaping concept in our prototype but still different. I probably down to the fact that we pick different section of the text to develop our idea. 
 
 ## The critical code
 coder's comment
