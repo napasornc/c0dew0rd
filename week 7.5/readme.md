@@ -5,21 +5,24 @@ During the break I have been pulling our key text and study text. I wasn't sure 
 ## Blackletter and Black metal
 
 <img src="Blackletter.JPG" width="50%">
-
 > read [here](http://digbeyond.com/readme/view.php?id=53)
 
 ```
 The logo is a password-behind it, a secret world is waiting. Illegible logos and messages are an unprecedented 
 brand of fantasy in the otherwise rationalized world of visual trademark, especially when seen in publib. 
-and 
 Its systematic illegibility has a self-cancelling quality to it; a message erased at the very moment it is transmitted.
 ```
+> selected paragraph
 
 ## Viruses are good for you 
 
 <img src="Viruses.JPG" width="50%">
-
 > read [here](http://digbeyond.com/readme/view.php?id=108&course=Code%20Words)
+
+```
+Virus are the electronic form of graffiti
+```
+> selected paragraph
 
 ## Learning from other coder
 
