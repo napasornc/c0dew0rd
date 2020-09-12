@@ -8,6 +8,8 @@ During the break I have been pulling our key text and study text. I wasn't sure 
 
 > read [here](http://digbeyond.com/readme/view.php?id=53)
 
+Blackletter and Black metal was written by a couple, Vinca kruk and Daniel van der velden, they goes by named [Metahaven](http://metahaven.net/). Describing logo of black metal around the world as an encryptic code. It has the elements of being in a hidden world, the logo is a password because it's illegible/ambiguous, only the fan can recognize it. Language and branding for Black meltal band reduce value of the high culture art, it criticize the world even if they do it with the image of horror and madness. 
+
 ```
 The logo is a password-behind it, a secret world is waiting. Illegible logos and messages are an unprecedented 
 brand of fantasy in the otherwise rationalized world of visual trademark, especially when seen in publib. 
@@ -15,11 +17,15 @@ Its systematic illegibility has a self-cancelling quality to it; a message erase
 ```
 > selected paragraph
 
+My initial lidea is to creaate a mini puzzel game that reader need to find a password in the passage in order to unlock the passage. Using the concept of hidden bar that have live Black metal band session. The other ideaa is the text will delete itself as the reader read. However, I was struggling to visualize so it was hard to translate idea into paper prototype. Eventually I lost interest in the text so I decided to move on to Viruses are good for you. 
+
 ## Viruses are good for you 
 
 <img src="Viruses.JPG" width="50%">
 
 > read [here](http://digbeyond.com/readme/view.php?id=108&course=Code%20Words)
+
+Viruses are good for you by [Julian Dibbell](http://www.juliandibbell.com/about/) 
 
 ```
 Virus are the electronic form of graffiti
