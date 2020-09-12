@@ -88,11 +88,4 @@ property >>> look for property of the song - the state of the song
 if and else statement
 proload: can load the sound in before loadSound. If you have larger file - it will load the file before running everything else.
 
-## Paper and pseudo
-
-
-
-
-
-
 
