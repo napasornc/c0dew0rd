@@ -5,9 +5,18 @@ During the break I have been pulling our key text and study text. I wasn't sure 
 ## Blackletter and Black metal
 
 ![](Blackletter.JPG)
+<img src="image" width="40%">
+
+
+
+```
+The logo is a password-behind it, a secret world is waiting. Illegible logos and messages are an unprecedented 
+brand of fantasy in the otherwise rationalized world of visual trademark, especially when seen in publib. 
+and 
+Its systematic illegibility has a self-cancelling quality to it; a message erased at the very moment it is transmitted.
+```
 
 > read [here](http://digbeyond.com/readme/view.php?id=53)
-
 
 ## Viruses are good for you 
 
