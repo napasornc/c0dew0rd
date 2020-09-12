@@ -4,10 +4,7 @@ During the break I have been pulling our key text and study text. I wasn't sure 
 
 ## Blackletter and Black metal
 
-![](Blackletter.JPG)
-<img src="image" width="40%">
-
-
+<img src="Blackletter.JPG" width="40%">
 
 ```
 The logo is a password-behind it, a secret world is waiting. Illegible logos and messages are an unprecedented 
