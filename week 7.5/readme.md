@@ -44,9 +44,9 @@ As I was browsing through everyone else github, I came across this beautiful web
 
 I didn't know how to best understand his code so I study line by line. Looking for toturial online explaining basic of P5.js. Someone suggest youtube channel called [The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) on the first week so I check it out. It is a good resource, the host cover topic from basic introduction to P5.js to animation to interaction to duplication. Here is the note I took from toturial. I wasn't quite sure how to sytax is suppose to be used still.
 
-```
-//Variables
+## Variables
 
+```
 function setup() }
   createCanvas(winddowWidth,windowHieght)
 
@@ -71,8 +71,9 @@ Variable: word stand in for number
 there is a built-in variable
 ```
 
+## Make your own variable
+
 ```
-//make your own variable
 1. Declare the variable: var (at the beginning/at the top)
 2. Initialize: anything
 3. Use
@@ -90,7 +91,6 @@ function draw() }
 
 {
 
-
 //step 1 and two is combine, can be combine
 var circleX = 50;
 
@@ -105,8 +105,9 @@ function draw() }
 {
 ```
 
+## circle move on its own
+
 ```
-//circle move on its own:
 //draw frame by frame: 1 px at the time
 //increment circleX by one = increment operation
 
@@ -130,8 +131,10 @@ function draw() }
 {
 ```
 
+## Array
+
 ```
-//Array: a list of information
+//a list of information
 
 let bubbles = []; //your variable is bubbles //first number of array is 0
 
@@ -152,7 +155,6 @@ function setup(); {
     } 
 }
 
-
 function draw() {
   background(0);
   for (let i = 0; i < bubbles.length; i++) {
@@ -164,9 +166,9 @@ function draw() {
 }
 ```
 
-```
-//random
+## Random
 
+```
 let bubbles = [];
 
 function setup() {
@@ -209,9 +211,9 @@ show() {
 }
 ```
 
-```
-//Add bubble when click the mouse
+## Add bubble when click the mouse
 
+```
 let bubbles = [];
 
 function setup() {
