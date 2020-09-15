@@ -36,6 +36,12 @@ or,in the case of one renegade coder, for, reckless individual expression. '
 ```
 > selected paragraphes
 
+## Prototype
+
+<img src="" width="80%">
+<img src="" width="80%">
+<img src="" width="80%">
+
 ## Learning from other coder
 
 As I was browsing through everyone else github, I came across this beautiful web collage on [Jamie's github](https://github.com/Jamtt/Codewords). I was thinking of doing something similar for my GKO so I decided to learn from his code. 
