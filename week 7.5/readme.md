@@ -77,7 +77,7 @@ function mousePressed() {
 //Note
 setup: happen once at the beginning 
 draw: draw in a loop: happen forever
-mousePressed: event: when the user click the mouse, the code  is execute: we take a break from draw and then back to drawing
+mousePressed: event: when the user click the mouse, the code is execute: we take a break from draw and then back to drawing
 mouseX is a variable
 Variable: word stand in for number
 there is a built-in variable
