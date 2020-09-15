@@ -110,5 +110,44 @@ if (song.isPlaying()){
 
 ## Re-examine Viruses are good for you
 
+In class, we were make sure to have the focus part of the text that we want to work on. After class, I went back into the text and start to pull out different sections I think will give me more ideas for prototype. 
+
+```
+He breeds viruses. He breeds worms, since that's the sticker's tern for software that is both 
+self-reproducing and able to excute its code independent of any host program. Ray, convinced that 
+his ptograms are as good as alive, calls them simply "organism," or "creatures." Whatever they are, 
+though, he's been breeding quite a lot of them.
+```
+> Here is the main part I choose from the reading
+
+```
+"genetic algorithms" - pools of software subroutines repeatedly multiplied, mutate, and weeded according 
+to how well they performed a given task. 
+```
+```
+Both wild viruses and Telescript agents routinely copy themselves from one computer to another. 
+```
+```
+What if someone were now to develop a strain of polymorphs with a genetic memory, so that rather than 
+completely reshuffling their structure with evey generations, the few mutants that escape discovery by 
+heuristic could pass their undetectable code on to their offspring? Once loosed into the Tierra environment 
+installed on Ray's laptop, the creature's offspring spread to the new world's every corner. Any program that 
+escaped into other computers would find itself a fish out of water, unable to function anywhere but its birthplace.
+```
+```
+Infusing the vast unused spaces of the global computer networks with a roiling digital ecology as complex, 
+as fascinating, and ultimately as beneficial to humankind as the rain forests that he has long sought to 
+protect and underdtand - In short, by infecting the Net with self-replicating code, Ray aims to turn it into jungle.
+```
+> Here is other part I pull inspiration from
+
+## Sketch
+
+Here is the rough idea I have before I start making paper prototype.
+
+<img src="P5.play.JPG" width="50%">
+
+
+
 
 
