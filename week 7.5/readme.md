@@ -21,14 +21,16 @@ My initial lidea is to create a mini puzzel game that reader need to find a pass
 
 ## Viruses are good for you 
 
-Viruses are good for you by [Julian Dibbell](http://www.juliandibbell.com/about/) 
+Viruses are good for you by [Julian Dibbell](http://www.juliandibbell.com/about/). I haven't read all of it yet but I like the idea of studying virus so that virus become less alien to us. I really enjoy stories of programmers trying to change people's attitudes, cut down people's fear.
 
 <img src="Viruses.JPG" width="50%">
 
 > read [here](http://digbeyond.com/readme/view.php?id=108&course=Code%20Words)
 
 ```
-
+'In short, virus enthusiasts relate to the virus as a fascinating and powerful form, whether 
+for the fertile creation of yet more powerful digital devices, as an entity for study in itself,
+or,in the case of one renegade coder, for, reckless individual expression. '
 ```
 > selected paragraphes
 
