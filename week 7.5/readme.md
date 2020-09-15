@@ -17,6 +17,8 @@ Its systematic illegibility has a self-cancelling quality to it; a message erase
 ```
 > selected paragraph
 
+<img src="BlackletterNote.JPG" width="50%">
+
 My initial lidea is to create a mini puzzel game that reader need to find a password in the passage in order to unlock the passage. Using the concept of hidden bar that have live Black metal band session. The other ideaa is the text will delete itself as the reader read. However, I was struggling to visualize so it was hard to translate idea into paper prototype. Eventually I lost interest in the text so I decided to move on to Viruses are good for you. 
 
 ## Viruses are good for you 
