@@ -145,7 +145,9 @@ protect and underdtand - In short, by infecting the Net with self-replicating co
 
 Here is the rough idea I have before I start making paper prototype.
 
-<img src="P5.play.JPG" width="50%">
+<img src="" width="50%">
+<img src="" width="50%">
+<img src="" width="50%">
 
 
 
