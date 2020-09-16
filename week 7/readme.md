@@ -190,17 +190,17 @@ ELSE
     paragraph that is printed stay in the same coordinates
 ENDIF
 FOR every the individual letter that is clicked 
-    Group selected letters
+    group selected letters
 ENDFOR
 PRECONDITON: Group of letter is equal to 1
-WHILE Group of letter < 3
-    IF Group of letter is place in the drop in box1 THEN
+WHILE group of letter < 3
+    IF group of letter is place in the drop in box1 THEN
         Box1 is filled
-    ELSE IF Group of letter is place in the drop in box2 THEN
+    ELSE IF group of letter is place in the drop in box2 THEN
         Box2 is filled 
 ENDWHILE
 FOR every group of letters in box1 and box2 
-    Combine group of letter from box1 with group of letter from box2
+    combine group of letter from box1 with group of letter from box2
     PRINT
 ENDFOR
 IF the new word touch any word in paragraph
@@ -212,14 +212,30 @@ ENDIF
 <img src="Prototype3.GIF" width="50%">
 
 ```
+INPUT host 
 
+IF attach button is clicked
+   THEN virus will attach itself to every host in the paragraph
+ENDIF 
+IF mutate button is clicked
+   THEN virus combine with every host in paragraph
+ENDIF
+FOR every new combine word 
+    replicated the word 
+    follow virus back to virus station
+ENDFOR
 ```
 > Pseudocode
 
 <img src="Prototype4.GIF" width="50%">
 
 ```
-
+PRECONDITION: virus is equal to 1
+WHILE the slider is moved down
+    BUMP virus replication++
+WHILE the siider is moved up
+    DECREMENT virus replication++
+ENDWHILE
 ```
 > Pseudocode
 
