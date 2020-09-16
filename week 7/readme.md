@@ -156,18 +156,25 @@ Here is the rough idea I have before I start making paper prototype.
 I pull idea from sketch and mix up two or three ideas to gether then make prototypes out of it. I am not too sure how to execute all of these prototype yet but after have a look at p5.js library, I might simply the choicen prototype. 
 
 <img src="Prototype1.GIF" width="50%">
+
 ```
 Pseudocode
 ```
-![](Prototype2.GIF)
+
+<img src="Prototype2.GIF" width="50%">
+
 ```
 Pseudocode
 ```
-![](Prototype3.GIF)
+
+![](<img src="Prototype3.GIF" width="50%">)
+
 ```
 Pseudocode
 ```
-![](Prototype4.GIF)
+
+<img src="Prototype4.GIF" width="50%">
+
 ```
 Pseudocode
 ```
