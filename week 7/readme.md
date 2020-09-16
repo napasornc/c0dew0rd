@@ -145,9 +145,33 @@ protect and underdtand - In short, by infecting the Net with self-replicating co
 
 Here is the rough idea I have before I start making paper prototype.
 
-<img src="" width="50%">
-<img src="" width="50%">
-<img src="" width="50%">
+<img src="Sketch1.JPG" width="50%">
+<img src="Sketch2.JPG" width="50%">
+<img src="Sketch3.JPG" width="50%">
+<img src="Sketch4.JPG" width="50%">
+<img src="Sketch5.JPG" width="50%">
+
+## Refine prototype
+
+I pull idea from sketch and mix up two or three ideas to gether then make prototypes out of it. I am not too sure how to execute all of these prototype yet but after have a look at p5.js library, I might simply the choicen prototype. 
+
+![](Prototype1.GIF)
+```
+Pseudocode
+```
+![](Prototype2.GIF)
+```
+Pseudocode
+```
+![](Prototype3.GIF)
+```
+Pseudocode
+```
+![](Prototype4.GIF)
+```
+Pseudocode
+```
+
 
 
 
