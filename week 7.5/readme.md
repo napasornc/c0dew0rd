@@ -38,9 +38,14 @@ or,in the case of one renegade coder, for, reckless individual expression. '
 
 ## Prototype
 
-<img src="" width="80%">
-<img src="" width="80%">
-<img src="" width="80%">
+I start with putting together every part of the reading I find interesting and put it into miro board. Then I note down quick idea.
+
+<img src="Miro1.JPG" width="50%">
+<img src="Miro2.JPG" width="50%">
+
+I was fascinating by the task of virus made by Ray, as he decribe them as living orgamism. He called them worms since it self-reproduce. So I though I would make text endlessly replicate itself. 
+
+<img src="Prototypefirst.GIF" width="50%">
 
 ## Learning from other coder
 
