@@ -158,26 +158,42 @@ I pull idea from sketch and mix up two or three ideas to gether then make protot
 <img src="Prototype1.GIF" width="50%">
 
 ```
-Pseudocode
+INPUT virus
+IF run button is clicked
+    PRINT "virus"
+ENDIF
+IF self-reproduce button is clicked THEN
+    Copy the word virus endlessly
+ELSE IF jump and blend button is clicked THEN
+    replace every word virus touch with virus
+ELSE IF delete is clicked THEN
+    send virus to delete random word
+ELSE
+    paragraph stay the same
+ENDIF
 ```
+> Pseudocode
 
 <img src="Prototype2.GIF" width="50%">
 
 ```
-Pseudocode
+
 ```
+> Pseudocode
 
 <img src="Prototype3.GIF" width="50%">
 
 ```
-Pseudocode
+
 ```
+> Pseudocode
 
 <img src="Prototype4.GIF" width="50%">
 
 ```
-Pseudocode
+
 ```
+> Pseudocode
 
 
 
