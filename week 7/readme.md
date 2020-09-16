@@ -167,7 +167,7 @@ Pseudocode
 Pseudocode
 ```
 
-![](<img src="Prototype3.GIF" width="50%">)
+<img src="Prototype3.GIF" width="50%">
 
 ```
 Pseudocode
