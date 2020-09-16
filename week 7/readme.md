@@ -159,6 +159,7 @@ I pull idea from sketch and mix up two or three ideas to gether then make protot
 
 ```
 INPUT virus
+
 IF run button is clicked
     PRINT "virus"
 ENDIF
@@ -177,7 +178,34 @@ ENDIF
 <img src="Prototype2.GIF" width="50%">
 
 ```
-
+IF text 1 is clicked THEN
+    PRINT "Transform viruses' heretoforce hacker driven pseudo-evolution
+           into something very like real thing"
+ELSE IF text 2 is clicked THEN
+    PRINT "He breeds worm"
+ELSE IF text 3 is clicked THEN
+    PRINT "At this point some individuals will be captured and brought 
+           into laboratories"
+ELSE 
+    paragraph that is printed stay in the same coordinates
+ENDIF
+FOR every the individual letter that is clicked 
+    Group selected letters
+ENDFOR
+PRECONDITON: Group of letter is equal to 1
+WHILE Group of letter < 3
+    IF Group of letter is place in the drop in box1 THEN
+        Box1 is filled
+    ELSE IF Group of letter is place in the drop in box2 THEN
+        Box2 is filled 
+ENDWHILE
+FOR every group of letters in box1 and box2 
+    Combine group of letter from box1 with group of letter from box2
+    PRINT
+ENDFOR
+IF the new word touch any word in paragraph
+    THEN word from paragraph fall down to the edge of the canvas
+ENDIF
 ```
 > Pseudocode
 
