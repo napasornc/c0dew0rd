@@ -38,7 +38,7 @@ or,in the case of one renegade coder, for, reckless individual expression. '
 
 ## Prototype
 
-I start with putting together every part of the reading I find interesting and put it into miro board. Then I note down quick idea.
+I start with putting together every part of the reading I find interesting and put it into [miro board](https://miro.com/app/board/o9J_klFKfmU=/). Then I note down quick idea.
 
 <img src="Miro1.JPG" width="50%">
 <img src="Miro2.JPG" width="50%">
