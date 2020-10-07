@@ -7,3 +7,8 @@ here is attempt number 2 (MajorProject4), 99% of the code are from daniel shiffm
 
 > see in action [here](http://127.0.0.1:8885/)
 
+During the week I have been coding more and focus on flocking
+
+> see in action [here](https://napasornc.github.io/c0dew0rd/processing/MajorProjectFlocking3)
+
+
