@@ -7,3 +7,11 @@ fun and enjpy the process of not knowing if this code is the right tools for exc
 1. Oh! what a shiny night, see [here]
 
 > learn sound input from [coding train]()
+
+
+---------------------------------------------------
+### [Previous]() -> [Next]()  
+
+--------------------------------------------------
+### [Back to weekly note]()
+
