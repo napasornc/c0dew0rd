@@ -13,6 +13,8 @@ motion tracking isn't working yet, [poseNet_part_selection](https://editor.p5js.
 
 ## work that i look at(change to that person's name)
 
-## Code
-Click [here](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2009) to look at all code written in week 9 
+-------------------------------------------------
+### [Previous]() -> [Next]() 
+-------------------------------------------------
+### [Code week 9]() 
 
