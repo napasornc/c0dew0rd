@@ -11,6 +11,6 @@ In someone picked sound artist to share with the rest of us and I was curious to
 ### [Previous]() -> [Next]()  
 
 --------------------------------------------------
-### [Back to weekly note](https://github.com/napasornc/c0dew0rd/tree/master/week%2003)
+### [Back to weekly note](https://github.com/napasornc/c0dew0rd)
 
 
