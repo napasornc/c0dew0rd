@@ -7,7 +7,6 @@ This week Karen show us how to add sound and how to make text react to the volum
 > code from [Karen]()
 > code fron [web editor](https://p5js.org/reference/#/libraries/p5.sound)
 
-# Here is all the code from week 10
 
 ---------------------------------------------------
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2006.2) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2008)  
