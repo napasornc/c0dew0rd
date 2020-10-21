@@ -35,7 +35,7 @@ Then I move one to create letter N. I first drew with rectangle shape first then
 -------------------------------------------------
 ### [Next](https://github.com/napasornc/c0dew0rd/tree/master/week%2002) 
 -------------------------------------------------
-### [Code week 1]() 
+### [Code week 1](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2001) 
 
  
 
