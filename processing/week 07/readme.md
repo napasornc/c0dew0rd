@@ -13,5 +13,5 @@ This week Karen show us how to add sound and how to make text react to the volum
 ### [Previous]() -> [Next]()  
 
 --------------------------------------------------
-### [Back to weekly note]()
+### [Back to weekly note](https://github.com/napasornc/c0dew0rd)
 
