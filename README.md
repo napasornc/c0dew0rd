@@ -15,21 +15,21 @@ This is where I sum up what I have been working on, discussion, reflection, and 
 
 ## [Week 6.1 _ Paper prototype :raised_hand_with_fingers_splayed:](https://github.com/napasornc/c0dew0rd/blob/master/week%2006.1/readme.md)
 
-## [# Week 6.2_continue to think with paper :v:](https://github.com/napasornc/c0dew0rd/tree/master/week%2006.2)
+## [Week 6.2_continue to think with paper :v:](https://github.com/napasornc/c0dew0rd/tree/master/week%2006.2)
 
-## [# Week 7_Show and tell :scream:](https://github.com/napasornc/c0dew0rd/blob/master/week%2007/readme.md)
-
-## []()
+## [Week 7_Show and tell :scream:](https://github.com/napasornc/c0dew0rd/blob/master/week%2007/readme.md)
 
 ## []()
 
-## []()
+## [Week 9_WIP_Voice recognition :dizzy_face:](https://github.com/napasornc/c0dew0rd/blob/master/week%2009/readme.md)
 
-## []()
+## [Week 10_WIP_Boid :thinking:](https://github.com/napasornc/c0dew0rd/tree/master/week%2010)
 
-## []()
+## [Week 11_WIP_Word Flock :confounded:](https://github.com/napasornc/c0dew0rd/blob/master/week%2011/readme.md)
 
-## []()
+## [# Week 12_Final Presentation :astonished:](https://github.com/napasornc/c0dew0rd/blob/master/week%2012/readme.md)
+
+
 
 
 
