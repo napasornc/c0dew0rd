@@ -287,6 +287,6 @@ This is when I was too ambitious and attempted to make a little game, tic-tac-to
 > orginal code can be found [here](https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_149_Tic_Tac_Toe/P5)
 
 -------------------------------------------------
-### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2006.1) -> [Next]() 
+### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2006.1) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/week%2007) 
 -------------------------------------------------
 ### [Code week 6.2]() 
