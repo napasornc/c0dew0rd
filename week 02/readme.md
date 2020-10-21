@@ -44,7 +44,7 @@ We also learn how to make spiralgraph type. Using `translate(movement,movement)`
 > see in action [here](http://127.0.0.1:8842/)
 
 -------------------------------------------------
-### [Previous]() -> [Next]() 
+### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2001) -> [Next]() 
 -------------------------------------------------
 ### [Code week 2]() 
 
