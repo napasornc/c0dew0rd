@@ -29,10 +29,12 @@ This is where I sum up what I have been working on, discussion, reflection, and 
 
 ## [Week 11_WIP_Word Flock :confounded:](https://github.com/napasornc/c0dew0rd/blob/master/week%2011/readme.md)
 
-## [# Week 12_Final Presentation :astonished:](https://github.com/napasornc/c0dew0rd/blob/master/week%2012/readme.md)
+## [Week 12_Final Presentation :astonished:](https://github.com/napasornc/c0dew0rd/blob/master/week%2012/readme.md)
 
 -----------------------------------------------------
-## [see code] 
+## [Final work](https://github.com/napasornc/c0dew0rd/blob/master/readme.md)
+-----------------------------------------------------
+## [see code](https://github.com/napasornc/c0dew0rd/tree/master/processing)
 
 
 
