@@ -240,7 +240,7 @@ ENDWHILE
 > Pseudocode
 
 -------------------------------------------------
-### [Previous]() -> [Next]() 
+### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2006.2) -> [Next]() 
 -------------------------------------------------
 ### [Code week 7]() 
 
