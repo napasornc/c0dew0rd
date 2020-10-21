@@ -28,4 +28,7 @@ We learn function preload and create spinning movement using syntax `spin`, `tra
 
 > github can be found [here]
 
+## Code
+Click [here]() to look at all code written in week 4 
+
 
