@@ -46,7 +46,7 @@ We also learn how to make spiralgraph type. Using `translate(movement,movement)`
 -------------------------------------------------
 ### [Previous]() -> [Next]() 
 -------------------------------------------------
-### [Code week2]() 
+### [Code week 2]() 
 
 
 
