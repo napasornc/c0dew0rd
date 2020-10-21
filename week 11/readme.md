@@ -14,5 +14,7 @@ so there are
 ## Goal
 
 
-## Code
-Click [here]() to look at all code written in week 11 
+-------------------------------------------------
+### [Previous]() -> [Next]() 
+-------------------------------------------------
+### [Code week 11]() 
