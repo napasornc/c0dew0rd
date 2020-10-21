@@ -21,7 +21,7 @@ This is where I sum up what I have been working on, discussion, reflection, and 
 
 ### [Week 7 _ Show and tell :scream:](https://github.com/napasornc/c0dew0rd/blob/master/week%2007/readme.md)
 
-### []()
+### [Week 8 _ More Prototype :tired_face:](https://github.com/napasornc/c0dew0rd/blob/master/week%2008/readme.md)
 
 ### [Week 9 _ WIP_Voice recognition :dizzy_face:](https://github.com/napasornc/c0dew0rd/blob/master/week%2009/readme.md)
 
