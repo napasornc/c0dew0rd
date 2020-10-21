@@ -6,9 +6,6 @@ Karen show us how to make random letters from an array pop up and also how to ma
 
 > code from Karen
 
-# Here is all the code from week 6.1
-
-
 ---------------------------------------------------
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2004) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2006.2)  
 
