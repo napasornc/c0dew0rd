@@ -1,4 +1,4 @@
-# Week 7_Show and tell :scream:
+# Week 7 _ Show and tell :scream:
 
 In the beginning of the class we refelct back to what we learnt in the past six weeks which then transition nicely into our chosen text. We went and filled the  sheet with 50 - 100 words pulling from our text. What I found really interesting is some people describe their reason as having emotional connection to the text. Key passage contain word that is rich in meaning and can be visualized. 
 
@@ -239,8 +239,11 @@ ENDWHILE
 ```
 > Pseudocode
 
-## Code
-Click [here]() to look at all code written in week 7
+-------------------------------------------------
+### [Previous]() -> [Next]() 
+-------------------------------------------------
+### [Code week 7]() 
+
 
 
 
