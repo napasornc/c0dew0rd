@@ -9,3 +9,10 @@ This week I have fun trying out different things in the sketch. I did bunch of s
 
 
 > learn from [coding train]()
+
+---------------------------------------------------
+### [Previous]() -> [Next]()  
+
+--------------------------------------------------
+### [Back to weekly note](https://github.com/napasornc/c0dew0rd/tree/master/week%2002)
+
