@@ -13,6 +13,6 @@ This week I spend time more on reaerching and interpretating the reading but I w
 ### [Previous]() -> [Next]()  
 
 --------------------------------------------------
-### [Back to weekly note]()
+### [Back to weekly note](https://github.com/napasornc/c0dew0rd)
 
 
