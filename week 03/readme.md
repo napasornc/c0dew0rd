@@ -61,6 +61,9 @@ After that we broke into individual group to discuss and plan our rereading proj
 
 ![](SIM.JPG)
 
+## Code
+Click [here]() to look at all code written in week 3 
+
 
 
 
