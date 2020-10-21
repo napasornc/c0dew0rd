@@ -6,3 +6,13 @@ This week I spend time more on reaerching and interpretating the reading but I w
 
 > learn sound input from [coding train]()
 
+# Here is all the code from week 10
+
+
+---------------------------------------------------
+### [Previous]() -> [Next]()  
+
+--------------------------------------------------
+### [Back to weekly note]()
+
+
