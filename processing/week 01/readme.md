@@ -8,10 +8,7 @@ From week one, I didn't know how to code, never heard of p5.js or github. I did 
 > learn from [coding train]()
 
 
-[Previous](){
-text-align: center;
-}
-                                                                                 
+# [Back to weekly note]-[Next]                                                                            
 
-[Back to weekly note]()                                                                                 
+                                                                               
 
