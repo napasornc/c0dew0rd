@@ -6,11 +6,8 @@ This week I spend time more on reaerching and interpretating the reading but I w
 
 > learn sound input from [coding train]()
 
-# Here is all the code from week 10
-
-
 ---------------------------------------------------
-### [Previous]() -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2007)  
+### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2006.1) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2007)  
 
 --------------------------------------------------
 ### [Back to weekly note](https://github.com/napasornc/c0dew0rd)
