@@ -34,7 +34,7 @@ This is where I sum up what I have been working on, discussion, reflection, and 
 -----------------------------------------------------
 ### [Final work](https://github.com/napasornc/c0dew0rd/blob/master/readme.md)
 -----------------------------------------------------
-### [see code](https://github.com/napasornc/c0dew0rd/tree/master/processing)
+### [See code](https://github.com/napasornc/c0dew0rd/tree/master/processing)
 
 
 
