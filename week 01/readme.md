@@ -33,7 +33,7 @@ Then I move one to create letter N. I first drew with rectangle shape first then
 
 
 -------------------------------------------------
-### [Next]() 
+### [Next](https://github.com/napasornc/c0dew0rd/edit/master/week%2002/readme.md) 
 -------------------------------------------------
 ### [Code week 1]() 
 
