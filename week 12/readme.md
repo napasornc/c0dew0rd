@@ -1,6 +1,7 @@
 # Week 12_Final Presentation :astonished:
 
-## Goal
+Karen help me identify which part of my code is causing problem. I have to 
+
  
 
 ## trouble with sounds
