@@ -20,8 +20,9 @@ However, with the motion detection, I was able to get the library working which 
 
 
 ---------------------------------------------------
-### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2010) -> [Next]()  
+### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2008) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2010)  
 
 --------------------------------------------------
 ### [Back to weekly note](https://github.com/napasornc/c0dew0rd)
+
 
