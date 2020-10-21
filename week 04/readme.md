@@ -1,4 +1,4 @@
-# Week 4 _ WIP  :triumph:
+# Week 4 _ Reading in SIM4  :triumph:
 
 Apart from working in the group, I create my repositories and ask for pull request. It was confusing as first, especially when I made mistake because I have to delete the entire folder. However, the github tutorial helps clarifying any questions. The [Markdown](https://guides.github.com/features/mastering-markdown/) guide is fairly easy to follow as well. 
 
