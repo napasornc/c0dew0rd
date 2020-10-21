@@ -1,8 +1,11 @@
-# Week 8_Rethink with Code
+# Week 8_
 
 
-## The reading
+## 
 
 
-## Draft of the 
+## 
+
+## Code
+Click [here]() to look at all code written in week 10 
 
