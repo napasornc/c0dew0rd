@@ -2,10 +2,10 @@
 In someone picked sound artist to share with the rest of us and I was curious to see what coding with sound would look like. At this point I didn't know about library and what don't really know where to get resource.  
 
 ## See in action
-1. [Oh! what a shiny night]()
+1. [Oh! what a shiny night](https://editor.p5js.org/napasornc/present/dgtxBQdm-)
 
 
-> learn sound input from [coding train]()
+> using [web edit](https://editor.p5js.org/napasornc/sketches/dgtxBQdm-)
 
 ---------------------------------------------------
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2002) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2004)  
