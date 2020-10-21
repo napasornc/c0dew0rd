@@ -3,7 +3,8 @@ From week one, I didn't know how to code, never heard of p5.js or github. I did 
 
 ## See in action
 1. Letter ['O']()
-2. Letter ['N']()
+2. Letter ['N'](http://127.0.0.1:8414/)
+3. [Rainbow](http://127.0.0.1:8874/)
 
 > learn from [coding train]()
 
