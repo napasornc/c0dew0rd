@@ -43,8 +43,10 @@ We also learn how to make spiralgraph type. Using `translate(movement,movement)`
 
 > see in action [here](http://127.0.0.1:8842/)
 
-## Code
-Click [here]() to look at all code written in week 2 
+-------------------------------------------------
+### [Previous]() -> [Next]() 
+-------------------------------------------------
+### [Code week2]() 
 
 
 
