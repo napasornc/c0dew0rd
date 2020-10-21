@@ -17,3 +17,11 @@ However, with the motion detection, I was able to get the library working which 
 > code from [Karen](https://github.com/Simandy/codewords/blob/master/processing/poseNet_test/poseNet_test.js)
 
 > code from [web editor](https://editor.p5js.org/kylemcdonald/sketches/H1OoUd9h7)
+
+
+---------------------------------------------------
+### [Previous]() -> [Next]()  
+
+--------------------------------------------------
+### [Back to weekly note]()
+
