@@ -22,7 +22,7 @@ We jump into group discussion about expectation for Major project. Transition to
 
 
 -------------------------------------------------
-### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2004) -> [Next]() 
+### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2004) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/week%2006.1) 
 
 
 
