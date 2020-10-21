@@ -64,7 +64,7 @@ After that we broke into individual group to discuss and plan our rereading proj
 -------------------------------------------------
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2002) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/week%2004) 
 -------------------------------------------------
-### [Code week 3]() 
+### [Code week 3](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2003) 
 
 
 
