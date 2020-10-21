@@ -5,6 +5,7 @@ This is where I sum up what I have been working on, discussion, reflection, and 
 
 ## [Week 1 _ What is CodeWord :exploding_head:](https://github.com/napasornc/c0dew0rd/tree/master/week%2001)
 
-https://github.com/napasornc/c0dew0rd/tree/master/week%2002
+## [Week 2 _ Rereading :nerd_face:](https://github.com/napasornc/c0dew0rd/tree/master/week%2002)
+
 
 
