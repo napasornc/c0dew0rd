@@ -1,4 +1,4 @@
-## Week 2 _ Rereading :nerd_face:
+# Week 2 _ Rereading :nerd_face:
 
 This week we start out class with Hunting and Gathering Activities. Finding Modular typeface, I slowly see how these type will function as algorithmic typography. 
 
