@@ -24,7 +24,7 @@ We learn function preload and create spinning movement using syntax `spin`, `tra
 
 <img src="Spin.JPG" width="70%">
 
-> see in action [here](http://127.0.0.1:8287/)
+> see in action [here](http://127.0.0.1:8250/)
 
 -------------------------------------------------
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2003) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/week%2005) 
