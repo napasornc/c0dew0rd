@@ -26,8 +26,6 @@ We learn function preload and create spinning movement using syntax `spin`, `tra
 
 > see in action [here](http://127.0.0.1:8287/)
 
-> github can be found [here]
-
 -------------------------------------------------
 ### [Previous]() -> [Next]() 
 -------------------------------------------------
