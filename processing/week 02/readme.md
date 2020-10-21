@@ -1,5 +1,5 @@
 # Here is all the code from week 2
-This week I have fun trying out different things in the sketch. I did bunch of small sketches that has nothing to do with making letter but it was great to learn what can be done in p5.js
+This week I have fun trying out different things in the sketch. I did bunch of small sketches that has nothing to do with making letter but it was great to learn what can be done with processing. I found generative text code with java script, it was intersting but didn't know at the time that you can convert java to p5.js
 
 ## see in action
 1. Interpretation of Hamish's work, see [here]()
