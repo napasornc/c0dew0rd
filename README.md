@@ -11,5 +11,26 @@ This is where I sum up what I have been working on, discussion, reflection, and 
 
 ## [Week 4 _ Reading in SIM4  :triumph:](https://github.com/napasornc/c0dew0rd/blob/master/week%2004/readme.md)
 
+## [Week 5 _ Screening :star_struck:](https://github.com/napasornc/c0dew0rd/tree/master/week%2005)
+
+## [Week 6.1 _ Paper prototype :raised_hand_with_fingers_splayed:](https://github.com/napasornc/c0dew0rd/blob/master/week%2006.1/readme.md)
+
+## [# Week 6.2_continue to think with paper :v:](https://github.com/napasornc/c0dew0rd/tree/master/week%2006.2)
+
+## [# Week 7_Show and tell :scream:](https://github.com/napasornc/c0dew0rd/blob/master/week%2007/readme.md)
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+
 
 
