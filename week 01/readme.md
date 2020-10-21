@@ -32,9 +32,10 @@ Then I move one to create letter N. I first drew with rectangle shape first then
 > see in action [here](http://127.0.0.1:8818/)
 
 
-
 -------------------------------------------------
-## [Code week1]() > [Next]() >  
+## [Previous]() -> [Next]() 
+-------------------------------------------------
+## [Code week1]() 
 
  
 
