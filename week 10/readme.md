@@ -1,4 +1,4 @@
-## Major Project WIP
+# Week 10_Major Project WIP 
 
 I was very stuck with the initial concept that I came up with, so I went back to the text and prototype and try to simplify it.
 I arrive at the steering behavior: seek and flock.
@@ -11,4 +11,5 @@ During the week I have been coding more and focus on flocking
 
 > see in action [here](https://napasornc.github.io/c0dew0rd/processing/MajorProjectFlocking3)
 
-
+## Code
+Click [here]() to look at all code written in week 9 
