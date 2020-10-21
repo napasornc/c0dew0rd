@@ -14,5 +14,7 @@ During the week I have been coding more and focus on flocking
 
 > see in action [here](https://napasornc.github.io/c0dew0rd/processing/MajorProjectFlocking3)
 
-## Code
-Click [here]() to look at all code written in week 10 
+-------------------------------------------------
+### [Previous]() -> [Next]() 
+-------------------------------------------------
+### [Code week 10]() 
