@@ -23,5 +23,5 @@ However, with the motion detection, I was able to get the library working which 
 ### [Previous]() -> [Next]()  
 
 --------------------------------------------------
-### [Back to weekly note]()
+### [Back to weekly note](https://github.com/napasornc/c0dew0rd)
 
