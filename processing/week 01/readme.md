@@ -7,6 +7,7 @@ From week one, I didn't know how to code, never heard of p5.js or github. I did 
 3. [Rainbow](http://127.0.0.1:8874/)
 
 > learn from [Designers do code](https://youtu.be/8-v8a5zJbu4)
+
 > introduction to [p5.js](https://youtu.be/8j0UDiN7my4)
 
 ---------------------------------------------------
