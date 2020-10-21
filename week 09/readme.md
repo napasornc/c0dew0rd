@@ -1,4 +1,4 @@
-# Week 9_Major Project_WIP :dizzy_face:
+# Week 9_WIP_Voice recognition :dizzy_face:
 I have start to follow tutorial on how to work with voice recognition because I would like to use environmental noise to generate text. But after chating with others in class today. I'm going to try another idea which is using camera tracking but I haven't try that yet. I'll pose work in progress late
 
 > see in action [here](http://127.0.0.1:8634/)
