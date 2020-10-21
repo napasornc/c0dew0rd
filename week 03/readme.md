@@ -62,7 +62,7 @@ After that we broke into individual group to discuss and plan our rereading proj
 ![](SIM.JPG)
 
 -------------------------------------------------
-### [Previous]() -> [Next]() 
+### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2002) -> [Next]() 
 -------------------------------------------------
 ### [Code week 3]() 
 
