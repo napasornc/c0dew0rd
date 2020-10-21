@@ -1,6 +1,11 @@
 # Week 6.1 _ Paper prototype :raised_hand_with_fingers_splayed:
 
-## Thinking with paper
+## Paper Astroid 
+
+in class papar prototype
+
+## Astroid + Tetris
+
 
 ## p5.js
 
