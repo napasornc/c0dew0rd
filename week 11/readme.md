@@ -1,4 +1,4 @@
-# Week 11_WIP_Flocking :confounded:
+# Week 11_WIP_Word Flock :confounded:
 
 ## from class:with andy 
 
