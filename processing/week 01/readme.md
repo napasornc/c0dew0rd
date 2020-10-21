@@ -8,10 +8,10 @@ From week one, I didn't know how to code, never heard of p5.js or github. I did 
 > learn from [coding train]()
 
 ---------------------------------------------------
-## [Next]()  
+### [Next]()  
 
 --------------------------------------------------
-## [Back to weekly note](https://github.com/napasornc/c0dew0rd/tree/master/week%2001)
+### [Back to weekly note](https://github.com/napasornc/c0dew0rd/tree/master/week%2001)
 
                                                                                
 
