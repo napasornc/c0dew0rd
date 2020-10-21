@@ -1,5 +1,7 @@
 # c0dew0rd
 
+<img src="Animation_final.gif" width="70%">
+
 Welcome to my coding space! 
 This is where I sum up what I have been working on, discussion, reflection, and material generated inside and outside of class. Hope we can share our code, please feel free to grab anything and ask for pull request if there is anything you want to add to my code. Here is the list of topics run by week, chronologically.
 
@@ -29,6 +31,8 @@ This is where I sum up what I have been working on, discussion, reflection, and 
 
 ## [# Week 12_Final Presentation :astonished:](https://github.com/napasornc/c0dew0rd/blob/master/week%2012/readme.md)
 
+-----------------------------------------------------
+## [see code] 
 
 
 
