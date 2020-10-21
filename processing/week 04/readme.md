@@ -10,7 +10,7 @@ fun and enjpy the process of not knowing if this code is the right tools for exc
 
 
 ---------------------------------------------------
-### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2003) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2006.2)  
+### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2003) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2006.1)  
 
 --------------------------------------------------
 ### [Back to weekly note](https://github.com/napasornc/c0dew0rd)
