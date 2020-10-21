@@ -15,6 +15,6 @@ so there are
 
 
 -------------------------------------------------
-### [Previous]() -> [Next]() 
+### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2010) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/week%2012) 
 -------------------------------------------------
 ### [Code week 11]() 
