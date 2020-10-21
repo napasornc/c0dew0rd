@@ -20,7 +20,7 @@ However, with the motion detection, I was able to get the library working which 
 
 
 ---------------------------------------------------
-### [Previous]() -> [Next]()  
+### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2010) -> [Next]()  
 
 --------------------------------------------------
 ### [Back to weekly note](https://github.com/napasornc/c0dew0rd)
