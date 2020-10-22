@@ -43,19 +43,19 @@ I follow Karen's advise and was able to get the word to not stack on one another
 
 I ask Jamie for help after working on them. Jamie suggest that split function requires its own seperate for loop to be able to split a string. He give me [resource](https://creative-coding.decontextualize.com/text-and-type/) to look at. I try to change different the for loop in fuction setup and function drawing but the paragraph still won't split. I also look at code from Yutang and Bridie for para.split.
 
-<img src="Yutang" width="60%">
+<img src="Yutang.JPG" width="60%">
 
 > [Yutang](https://github.com/YutangMoo/MakeCode/blob/master/Week_10/New_Floating_Texts/New_Floating_Texts.js)
 
-<img src="Bridie" width="60%">
+<img src="Bridie.JPG" width="60%">
 
 > [Bridie](https://github.com/bridieotoole/codewords/blob/master/week_11/Whitewashtext/Whitewashtext.js)
 
 Here is where I was orginally put my for loop
 
-<img src="for1" width="60%">
+<img src="for1.JPG" width="60%">
 
-<img src="for2" width="60%">
+<img src="for2.JPG" width="60%">
 
 Jamie help looked at my code and my adjustment to it. He explain to me that the split needs to be where you display the text for it to split each word. There are words that stuck as sentence still.  
 
