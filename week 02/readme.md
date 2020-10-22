@@ -48,6 +48,9 @@ We also learn how to make spiralgraph type. Using `translate(movement,movement)`
 -------------------------------------------------
 ### [Code week 2](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2002) 
 
+--------------------------------------------------
+### [Back to weekly note](https://napasornc.github.io/c0dew0rd/)
+
 
 
 
