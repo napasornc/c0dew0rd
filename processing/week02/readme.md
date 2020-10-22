@@ -2,8 +2,8 @@
 This week I have fun trying out different things in the sketch. I did bunch of small sketches that has nothing to do with making letter but it was great to learn what can be done with processing. I found generative text code with java script, it was intersting but didn't know at the time that you can convert java to p5.js
 
 ## see in action
-1. Interpretation of [Hamish's work](http://127.0.0.1:8021/)
-2. Interpretation of letter ['M'](http://127.0.0.1:8598/)
+1. Interpretation of [Hamish's work](https://napasornc.github.io/c0dew0rd/processing/week02/HP/)
+2. Interpretation of letter ['M'](https://napasornc.github.io/c0dew0rd/processing/week02/Gradient_M_real_playaround/)
 3. [Spirograph](http://127.0.0.1:8598/)
 
 ---------------------------------------------------
