@@ -26,13 +26,13 @@ In class, Karen get us started with simple geometric shape. We also learnt the u
 
 <img src="Letter.JPG" width="70%">
 
-> see in action [here](https://napasornc.github.io/c0dew0rd/processing/week 01/TypeName_0/) 
+> see in action [here](https://napasornc.github.io/c0dew0rd/processing/week01/TypeName_0/) 
 
 Then I move one to create letter N. I first drew with rectangle shape first then I start looking at the coordinate I use to map. I replace first 2 coordinate with `mouseX` and `mouseY` in order to animate the letter.
 
 <img src="N.JPG" width="50%">
 
-> see in action [here](https://napasornc.github.io/c0dew0rd/processing/week 01/TypeName_/)
+> see in action [here](https://napasornc.github.io/c0dew0rd/processing/week01/TypeName_/)
 
 
 -------------------------------------------------
