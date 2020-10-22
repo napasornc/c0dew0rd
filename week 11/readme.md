@@ -77,6 +77,10 @@ I was trying to bring bright color into the work because I way to make the conce
 
 I decided to add sound so that it enhance the reading experience. However, now that I think about it, I think stripping back the sound might be a good idea. I think it doesn't incorperate into the work. If I were to develop it, I will try to use text-to-voice(maybe) to control the behavior of the flocking. The track that I was looking at was:
 
+1. Forest
+2. Jungle
+3. Cricket
+
 -------------------------------------------------
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2010) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/week%2012) 
 -------------------------------------------------
