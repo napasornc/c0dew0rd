@@ -32,12 +32,15 @@ After arriving at the steering behavior. I start to explore boid behavior within
 
 <img src="Flocking1.JPG" width="70%">
 
-> see in action [here](http://127.0.0.1:8902/) major 1
+> see in action [here](http://127.0.0.1:8902/) 
 
 <img src="Flocking2.JPG" width="70%">
 
-> see in action [here](http://127.0.0.1:8505/) major 2
+> see in action [here](http://127.0.0.1:8505/) 
 
+<img src="Flocking2.5.JPG" width="70%">
+
+> see in action [here](http://127.0.0.1:8960/)
 -------------------------------------------------
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2009) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/week%2011) 
 -------------------------------------------------
