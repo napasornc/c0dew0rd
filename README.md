@@ -25,7 +25,7 @@ This is where I sum up what I have been working on, discussion, reflection, and 
 
 ### [Week 9 _ WIP_Voice recognition](https://github.com/napasornc/c0dew0rd/blob/master/week%2009/readme.md) :dizzy_face:
 
-### [Week 10 _ WIP_Boid :thinking:](https://github.com/napasornc/c0dew0rd/tree/master/week%2010)
+### [Week 10 _ WIP_Boid](https://github.com/napasornc/c0dew0rd/tree/master/week%2010) :thinking:
 
 ### [Week 11 _ WIP_Word Flock](https://github.com/napasornc/c0dew0rd/blob/master/week%2011/readme.md) :confounded:
 
