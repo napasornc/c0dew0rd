@@ -30,11 +30,11 @@ So I start exploring the new resource and look at the code behind it. Then I go 
 
 In class I talk to Jackie and Jamie, they explain to me what they are working on and then I get some advise from them. Jamie was using rita and jackie was using pose net. I wasn't sure what to do still because my idea change completely from the first prototype. I was look at a way to find a way that make word react/change based on the environment around them eg. if the camera detect changes in our enivronment(not on screen), mthe letters will disaapper or reappear or delete from the paragraph. 
 
-<img src="Class1" width="70%">
+<img src="Class1.JPG" width="70%">
 
-<img src="Class2" width="70%">
+<img src="Class2.JPG" width="70%">
 
-<img src="Class3" width="70%">
+<img src="Class3.JPG" width="70%">
 
 
 ## Class
