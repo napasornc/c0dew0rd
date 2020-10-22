@@ -3,9 +3,9 @@
 This week, we learn about class.
 
 ## See in action
-1. [Wiggle random](http://127.0.0.1:8436/)
-2. [Wiggle word split hack](http://127.0.0.1:8816/)
-3. [Wiggle word split with elipse](http://127.0.0.1:8317/)
+1. [Wiggle random](https://napasornc.github.io/)
+2. [Wiggle word split hack](https://napasornc.github.io/)
+3. [Wiggle word split with elipse](https://napasornc.github.io/)
 
 > code from Karen
 
