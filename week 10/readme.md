@@ -38,10 +38,6 @@ After arriving at the steering behavior. I start to explore boid behavior within
 
 > see in action [here](http://127.0.0.1:8505/) major 2
 
-<img src="Flocking3.JPG" width="70%">
-
-> see in action [here]() major dunno (the one with words)
-
 -------------------------------------------------
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2009) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/week%2011) 
 -------------------------------------------------
