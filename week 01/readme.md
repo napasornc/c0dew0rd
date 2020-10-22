@@ -30,7 +30,7 @@ In class, Karen get us started with simple geometric shape. We also learnt the u
 
 Then I move one to create letter N. I first drew with rectangle shape first then I start looking at the coordinate I use to map. I replace first 2 coordinate with `mouseX` and `mouseY` in order to animate the letter.
 
-<img src="N.JPG" width="50%">
+<img src="N.JPG" width="70%">
 
 > see in action [here](https://napasornc.github.io/c0dew0rd/processing/week01/TypeName_/)
 
