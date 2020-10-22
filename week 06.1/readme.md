@@ -3,7 +3,7 @@ This week we were introduce to a way to visualize our ideas and how to generate 
 
 ## Paper Astroid 
 
-![]()
+![](astroid.gif)
 
 During class we broke out into small groups and work on paper prototype for simple 90's game. Our group chose Astroid because most of us now how to play it except from me who didn't play game much growing up. So we decide to work on one prototype and animated it as a simple gif. Astroid is a game where you can shoot at the astroid and astroid will break into tiny pieces and you have to avoid getting hit. During presentation and discussion, I understand that code is almost like animation, you deal with it frame by frame. There are components in code that work individually on the same canvas, all at the same time. It was great to see how to breaks things down into steps and then compost it, these become a refence point that I can come back to later on when I start coding . Here is what I think the steps are:
 
