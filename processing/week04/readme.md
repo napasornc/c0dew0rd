@@ -4,7 +4,7 @@ this point I start to have self-doubt and worry that coding might be too big of 
 fun and enjpy the process of not knowing if this code is the right tools for excuting what I have in mind. I don't really know how to bring design into this except from changing color and text and shape. I was struggling to figure out how to get the right coordinates so I can form the composition.   
 
 ## See in action
-1. [Spinning type]()
+1. [Spinning type](https://napasornc.github.io/c0dew0rd/processing/week04/Typetest_3/)
 
 > Code from Karen
 
