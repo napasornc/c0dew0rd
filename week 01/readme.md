@@ -32,7 +32,7 @@ Then I move one to create letter N. I first drew with rectangle shape first then
 
 <img src="N.JPG" width="50%">
 
-> see in action [here](https://napasornc.github.io/c0dew0rd/processing/week01/TypeName_O)
+> see in action [here](https://napasornc.github.io/c0dew0rd/processing/week01/TypeName_O/)
 
 
 -------------------------------------------------
