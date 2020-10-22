@@ -1,7 +1,7 @@
 # Here is all the code from week 9
 
 ## What work
-[Dinner Party](http://127.0.0.1:8634/)
+[Dinner Party](https://napasornc.github.io/c0dew0rd/processing/week09/DinerParty/)
 
 ## What fail
 These two code isn't functioning so there is no link to live work. 
