@@ -63,7 +63,7 @@ Here is origianlly where my for loop was. This is what causing problem.
 
 Jamie help looked at my code and my adjustment to it. He explain to me that the split needs to be where you display the text for it to split each word. There are words that stuck as sentence still.  
 
-<img src="Jamie.JPG" width="80%"> 
+<img src="Jamie1.JPG" width="80%"> 
 
 > Code edit by [Jamie](https://editor.p5js.org/OmegaJam/sketches/TwQk3Y3Qd)
 
