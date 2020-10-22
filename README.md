@@ -5,7 +5,7 @@ This is where I sum up what I have been working on, discussion, reflection, and 
 
 -------------------------------------------
 
-<img src="Sim.JPG" width="60%">
+<img src="SIm.gif" width="60%">
 
 ### [Week 1 _ What is CodeWord](https://github.com/napasornc/c0dew0rd/tree/master/week%2001) 
 
