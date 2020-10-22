@@ -37,6 +37,6 @@ This week I focus on steering and flocking behavior. To understand flocking, I h
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2009) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2011)  
 
 --------------------------------------------------
-### [Back to weekly note](https://github.com/napasornc/c0dew0rd)
+### [Back to weekly note](https://napasornc.github.io/c0dew0rd/)
 
 
