@@ -3,7 +3,7 @@ This week Karen show us how to add sound and how to make text react to the volum
 
 ## See in action
 1. [Sound](http://127.0.0.1:8610/)
-2. [Song_mousePressed](http://127.0.0.1:8004/)
+2. [Sound test](http://127.0.0.1:8004/)
 
 > code from Karen
 > code fron [web editor](https://p5js.org/reference/#/libraries/p5.sound)
