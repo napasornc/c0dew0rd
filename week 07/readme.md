@@ -76,7 +76,7 @@ Add mp3 by using function preload or loadSound
 ```
 
 ![](Sound.JPG)
-> see in action [here](http://127.0.0.1:8610/)
+> see in action [here](https://napasornc.github.io/c0dew0rd/processing/week07/sound/)
 
 I have attempt play with sound before but this coding session I understand the use of variable and property more. From the tutorial from video made by coding train, variable is placed at the top but I didn't know about variable within function which can be discarded. Here is note for next time I remix a song.
 
