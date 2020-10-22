@@ -289,4 +289,4 @@ This is when I was too ambitious and attempted to make a little game, tic-tac-to
 -------------------------------------------------
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2006.1) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/week%2007) 
 -------------------------------------------------
-### [Code week 6.2]() 
+### [Code week 6.2](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2006.2) 
