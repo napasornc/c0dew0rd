@@ -3,10 +3,10 @@
 This week I focus on steering and flocking behavior. To understand flocking, I have to look at the theory of boid. I learn about force, desire, velocity, and acceleration. I read a chapter about autonomous agent from Daniel Shiffman's book, [the nature of code](https://natureofcode.com/book/chapter-6-autonomous-agents/). From reading, I learing how to find the desire that will frame behavior for the agent. I was considering to put something in the environment for the agent to interact with but at the end I decide that it would be too distracting. 
 
 ## See in action
-1. [Steering](http://127.0.0.1:8134/)
-2. [Flocking1](http://127.0.0.1:8179/)
-3. [Flocking2](http://127.0.0.1:8114/)
-4. [Flocking3](http://127.0.0.1:8067/)
+1. Major project 4: [Steering](http://127.0.0.1:8134/)
+2. [Major project Flocking1](http://127.0.0.1:8179/)
+3. [Major project Flocking2](http://127.0.0.1:8114/)
+4. [Major project Flocking2.5](http://127.0.0.1:8067/)
 
 
 > learn steering from [coding train](https://youtu.be/4zhJlkGQTvU)
