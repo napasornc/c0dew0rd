@@ -1,19 +1,32 @@
 # Week 12_Final Presentation :astonished:
 
+This week I have to debug the sound, and for loop, and start to experiment with color and typeface. Karen help me identify which part of my code is causing problem.
 
-Karen help me identify which part of my code is causing problem. 
-
- 
+<img src="Karen10.JPG" width="60%">
 
 ## trouble with sounds
-
-## add sound loop
+With the sound loop, as I learn from Karen, the sound need 
 
 ## trouble word loop
 
-## add mousetab
+After I add a secondary font, I was having trouble with looping the for loop through words but I finally figure it out. Not ideal but I move textFont, textSize, fill, and others that suppose to be in function draw to display() which is in class boid. 
 
-## add background sentence
+```
+    display() { 
+    for (let j = 0; j < words.length; j++) {
+    noStroke();
+    fill(192,224,33);
+    textFont(font);
+    textSize(70);
+    text(this.words[j], this.position.x * [j], this.position.y * [j]);
+   }
+  }
+}
+```
+
+## Add background sentence
+
+## Add mousePress
 
 ## Styling change
 
