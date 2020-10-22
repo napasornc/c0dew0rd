@@ -24,7 +24,7 @@ I chose to work with the word 'Big Bang' at this point because I didn't want to 
 
 <img src="Steering.JPG" width="70%">
 
-> see in action [here](https://github.com/napasornc/c0dew0rd/blob/master/processing/MajorProject4.js)
+> see in action [here](http://127.0.0.1:8134/)
 
 > code from [Coding train](https://youtu.be/4hA7G3gup-4)
 
