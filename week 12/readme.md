@@ -1,6 +1,7 @@
 # Week 12_Final Presentation :astonished:
 
-Karen help me identify which part of my code is causing problem. I have to 
+
+Karen help me identify which part of my code is causing problem. 
 
  
 
