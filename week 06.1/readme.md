@@ -18,7 +18,7 @@ During class we broke out into small groups and work on paper prototype for simp
 
 ## Astroid + Tetris
 
-![]()
+![](astroidtetris.gif)
 
 I learn that we generate new idea from merging two ideas together. It was very intersting and I now use it with how I come up with ideas for illustration and typography.
 
