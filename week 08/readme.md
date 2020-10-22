@@ -28,14 +28,6 @@ So I start exploring the new resource and look at the code behind it. Then I go 
 
 > work from [Takawo](https://www.openprocessing.org/sketch/942983)
 
-In class I talk to Jackie and Jamie, they explain to me what they are working on and then I get some advise from them. Jamie was using rita and jackie was using pose net. I wasn't sure what to do still because my idea change completely from the first prototype. I was look at a way to find a way that make word react/change based on the environment around them eg. if the camera detect changes in our enivronment(not on screen), mthe letters will disaapper or reappear or delete from the paragraph. 
-
-<img src="Class1.JPG" width="70%">
-
-<img src="Class2.JPG" width="70%">
-
-<img src="Class3.JPG" width="70%">
-
 
 ## Class
 This week we explore class which allow us to reduce the amount of code in your work. Class as I learn, group the object that have similar properties so we can trace back our code easier. To demonstrate this, Karen live code a wiggle letters. 
