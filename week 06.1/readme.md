@@ -10,7 +10,7 @@ in class papar prototype
 
 I was looking for a place for internship and I left eyedesign website open. When I came back to it, the eye has already poplulate the entire webpage. I was fun and I thought of doing something fun like this with the project so I kept it as inspiration.
 
-<img src="eye.jpg" width="60%">
+![](eye.jpg)
 
 ## Paragraph
 
