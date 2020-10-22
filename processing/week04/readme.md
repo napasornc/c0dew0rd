@@ -4,7 +4,7 @@ this point I start to have self-doubt and worry that coding might be too big of 
 fun and enjpy the process of not knowing if this code is the right tools for excuting what I have in mind. I don't really know how to bring design into this except from changing color and text and shape. I was struggling to figure out how to get the right coordinates so I can form the composition.   
 
 ## See in action
-1. [Spinning type](http://127.0.0.1:8250/)
+1. [Spinning type]()
 
 > Code from Karen
 
