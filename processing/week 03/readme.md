@@ -11,6 +11,6 @@ In someone picked sound artist to share with the rest of us and I was curious to
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2002) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2004)  
 
 --------------------------------------------------
-### [Back to weekly note](https://github.com/napasornc/c0dew0rd)
+### [Back to weekly note](https://napasornc.github.io/c0dew0rd/)
 
 
