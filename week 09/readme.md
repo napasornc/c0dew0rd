@@ -11,9 +11,9 @@ Motion tracking didn't work out at the end. I can't get the code to work but her
 
 I code along coding train for the voice recognition I use during dinner party. I realize that it doesn't really pick up words that came through my laptop. It record word by word and sometime record a sentence but it wasn't accurate at all so I end up with list of words that get all mix up and doesn't make any sense. I still think it was interesting becuase most of the time what we talk with others, we end up forget or mix it all up in our memories. It was only to capture the moment in time so I think I work out for my project. My point is I start to see what code can do in other area of design. Side note(it might not work on your computer, recommend to put the code in web editor) 
 
-<img src="Dinner1.JPG" width="90%">
+<img src="Dinner1.JPG" width="100%">
 
-<img src="Dinner2.JPG" width="90%">
+<img src="Dinner2.JPG" width="100%">
 
 > see in action [here](http://127.0.0.1:8414/)
 
