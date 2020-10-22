@@ -37,11 +37,17 @@ We transition to processing. Learning to code from other coder. We are promtped 
 
 > see in action [here](https://napasornc.github.io/c0dew0rd/processing/week02/HP/)
 
+I also playaround and interprete letter 'M' as well
+
+<img src="HP.JPG" width="60%">
+
+> see in action [here](https://napasornc.github.io/c0dew0rd/processing/week02/HP/)
+
 We also learn how to make spiralgraph type. Using `translate(movement,movement)`, `angleRotation`, and `angleMode`. We learn to control the speed with `frameRate`
 
-<img src="Spiral.JPG" width="60%">
+<img src="M.JPG" width="60%">
 
-> see in action [here](https://napasornc.github.io/c0dew0rd/processing/week02/spirograph/)
+> see in action [here](https://napasornc.github.io/c0dew0rd/processing/week02/Gradient_M_real_playaround/)
 
 -------------------------------------------------
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2001) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/week%2003) 
