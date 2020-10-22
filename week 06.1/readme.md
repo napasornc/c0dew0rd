@@ -9,7 +9,7 @@ in class papar prototype
 
 ## p5.js
 
-adding paragraph
+This week Karen show us how to add paragraph and how to use array. This 
 
 > see in action [here](http://127.0.0.1:8408/)
 
