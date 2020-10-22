@@ -41,11 +41,27 @@ I follow Karen's advise and was able to get the word to not stack on one another
 
 > see in action [here](http://127.0.0.1:8171/)
 
-I ask Jamie for help after working on them. Jamie suggest that split function requires its own seperate for loop to be able to split a string. He give me [resource](https://creative-coding.decontextualize.com/text-and-type/) to look at. 
+I ask Jamie for help after working on them. Jamie suggest that split function requires its own seperate for loop to be able to split a string. He give me [resource](https://creative-coding.decontextualize.com/text-and-type/) to look at. I try to change different the for loop in fuction setup and function drawing but the paragraph still won't split. I also look at code from Yutang and Bridie for para.split.
 
+<img src="Yutang" width="60%">
 
+> [Yutang](https://github.com/YutangMoo/MakeCode/blob/master/Week_10/New_Floating_Texts/New_Floating_Texts.js)
 
-> Code edit by Jamie
+<img src="Bridie" width="60%">
+
+> [Bridie](https://github.com/bridieotoole/codewords/blob/master/week_11/Whitewashtext/Whitewashtext.js)
+
+Here is where I was orginally put my for loop
+
+<img src="for1" width="60%">
+
+<img src="for2" width="60%">
+
+Jamie help looked at my code and my adjustment to it. He explain to me that the split needs to be where you display the text for it to split each word. There are words that stuck as sentence still.  
+
+<img src="Jamie.JPG" width="60%"> (need to find the file for major project)
+
+> Code edit by [Jamie](https://editor.p5js.org/OmegaJam/sketches/TwQk3Y3Qd)
 
 ## Styling
 
@@ -53,13 +69,9 @@ I was trying to bring bright color into the work because I way to make the conce
 
 <img src="Color.JPG" width="60%">
 
-## Sketch
-
-
-
 ## Sound
 
-I decided to add sound so that it enhance the reading experience. However, now that I think about it, I think stripping back the sound might be a good idea. I think it doesn't incorperate into the work. If I were to develop it, I will try to use text-to-voice(maybe) to control the behavior of the flocking.
+I decided to add sound so that it enhance the reading experience. However, now that I think about it, I think stripping back the sound might be a good idea. I think it doesn't incorperate into the work. If I were to develop it, I will try to use text-to-voice(maybe) to control the behavior of the flocking. The track that I was looking at was:
 
 -------------------------------------------------
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2010) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/week%2012) 
