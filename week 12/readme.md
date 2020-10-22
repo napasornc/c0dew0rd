@@ -2,10 +2,12 @@
 
 This week I have to debug the sound, and for loop, and start to experiment with color and typeface. Karen help me identify which part of my code is causing problem. I think one of the thing that suprise me through out this week is I understand processing language. I start to enjoy coding again because I start to be able to read it and write it on my own. 
 
-<img src="Karen10.JPG" width="60%">
+<img src="Karen10.JPG" width="70%">
+
+> Comment from Karen
 
 ## Trouble with sounds
-With the sound loop, as I learn from Karen, the sound need 
+With the sound loop, as I learn from Karen, the sound need to have a starting gesture meaning I should add a button or other type of way that user can start the song. I chose to put button in because that's what I know how to code and also because it's intuitive. I also put song loop,  
 
 ## Trouble word loop
 
