@@ -10,5 +10,5 @@ This week I have fun trying out different things in the sketch. I did bunch of s
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2001) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2003)  
 
 --------------------------------------------------
-### [Back to weekly note](https://github.com/napasornc/c0dew0rd)
+### [Back to weekly note](https://napasornc.github.io/c0dew0rd/)
 
