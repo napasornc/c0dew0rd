@@ -6,10 +6,15 @@ in class papar prototype
 
 ## Astroid + Tetris
 
+## Inspiration
+
+I was looking for a place for internship and I left eyedesign website open. When I came back to it, the eye has already poplulate the entire webpage. I was fun and I thought of doing something fun like this with the project so I kept it as inspiration.
+
+
 
 ## p5.js
 
-This week Karen show us how to add paragraph and how to use array. This 
+adding paragraph
 
 > see in action [here](http://127.0.0.1:8408/)
 
