@@ -45,7 +45,7 @@ I also playaround and interprete letter 'M' as well
 
 We also learn how to make spiralgraph type. Using `translate(movement,movement)`, `angleRotation`, and `angleMode`. We learn to control the speed with `frameRate`
 
-<img src="Spiro.JPG" width="60%">
+<img src="Spiral.JPG" width="60%">
 
 > see in action [here](https://napasornc.github.io/c0dew0rd/processing/week02/Gradient_M_real_playaround/)
 
