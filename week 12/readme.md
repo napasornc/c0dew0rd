@@ -4,10 +4,10 @@ This week I have to debug the sound, and for loop, and start to experiment with 
 
 <img src="Karen10.JPG" width="60%">
 
-## trouble with sounds
+## Trouble with sounds
 With the sound loop, as I learn from Karen, the sound need 
 
-## trouble word loop
+## Trouble word loop
 
 After I add a secondary font, I was having trouble with looping the for loop through words but I finally figure it out. Not ideal but I move textFont, textSize, fill, and others that suppose to be in function draw to display() which is in class boid. 
 
@@ -23,6 +23,7 @@ After I add a secondary font, I was having trouble with looping the for loop thr
   }
 }
 ```
+[here](https://napasornc.github.io/c0dew0rd/processing/MajorProjectFlocking18)
 
 ## Add background sentence
 
