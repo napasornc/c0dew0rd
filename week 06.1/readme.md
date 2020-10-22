@@ -38,7 +38,7 @@ Karen show us how to add array and call random individual character from the arr
 
 <img src="lettererase.JPG" width="60%">
 
-> see in action [here](http://127.0.0.1:8689/)
+> see in action [here](https://napasornc.github.io/c0dew0rd/processing/week06/week_6_letters/)
 
 -------------------------------------------------
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2005) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/week%2006.2) 
