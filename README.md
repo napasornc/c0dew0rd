@@ -32,9 +32,10 @@ This is where I sum up what I have been working on, discussion, reflection, and 
 ### [Week 12 _ Final Presentation :astonished:](https://github.com/napasornc/c0dew0rd/blob/master/week%2012/readme.md)
 
 -----------------------------------------------------
-### [Final word](https://github.com/napasornc/c0dew0rd/blob/master/readme.md)
------------------------------------------------------
 ### [See code](https://github.com/napasornc/c0dew0rd/blob/master/processing/readme.md)
+-----------------------------------------------------
+### [Final word](https://github.com/napasornc/c0dew0rd/blob/master/readme.md)
+
 
 
 
