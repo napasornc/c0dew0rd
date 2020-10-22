@@ -54,3 +54,5 @@ see in action [here](http://127.0.0.1:8317/)
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2007) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/week%2009) 
 -------------------------------------------------
 ### [Code week 8](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2008) 
+--------------------------------------------------
+### [Back to weekly note](https://napasornc.github.io/c0dew0rd/)
