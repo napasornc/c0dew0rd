@@ -1,6 +1,6 @@
 # Week 12_Final Presentation :astonished:
 
-This week I have to debug the sound, and for loop, and start to experiment with color and typeface. Karen help me identify which part of my code is causing problem.
+This week I have to debug the sound, and for loop, and start to experiment with color and typeface. Karen help me identify which part of my code is causing problem. I think one of the thing that suprise me through out this week is I understand processing language. I start to enjoy coding again because I start to be able to read it and write it on my own. 
 
 <img src="Karen10.JPG" width="60%">
 
