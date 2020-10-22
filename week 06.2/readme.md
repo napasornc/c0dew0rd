@@ -283,7 +283,7 @@ show() {
 This is when I was too ambitious and attempted to make a little game, tic-tac-toe. I would like to add button and use `push`function to push the X and O into the array so I can place one at a time. However, once I attach function to variable, I can't get the code to work. I think I need to figure out the exactly position for X and O in `function mousePressed()`. I haven't figure out how to do that yet but I'll update this github once I solve it.    
 
 ![](TicTacToe.JPG)
-> see in action [here](http://127.0.0.1:8734/)
+> see in action [here](https://napasornc.github.io/c0dew0rd/processing/week06.2/tic_tac_toe/)
 
 > code by The Coding Train
 > orginal code can be found [here](https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_149_Tic_Tac_Toe/P5)
