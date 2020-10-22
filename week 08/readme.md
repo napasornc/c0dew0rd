@@ -34,7 +34,7 @@ This week we explore class which allow us to reduce the amount of code in your w
 
 <img src="Wiggle.JPG" width="70%">
 
-see in action [here](http://127.0.0.1:8436/)
+see in action [here](https://napasornc.github.io/c0dew0rd/processing/week08/wigglerandom/)
 
 Karen also show us the process of how to develop code from the existed code. From the wiggle letters, I suggest to the class that maybe we can work with sounds (I think) but it can be too complicate so Karen and the class extract the idea behind it and start working with easier way to code such as speed. We also look at how to split sentence into words.
 
@@ -42,11 +42,11 @@ Karen also show us the process of how to develop code from the existed code. Fro
 
 <img src="WiggleSplit.JPG" width="70%">
 
-see in action [here](http://127.0.0.1:8816/)
+see in action [here](https://napasornc.github.io/c0dew0rd/processing/week08/wiggleExperimentHack/)
 
 <img src="WiggleElipse.JPG" width="70%">
 
-see in action [here](http://127.0.0.1:8317/)
+see in action [here](https://napasornc.github.io/c0dew0rd/processing/week08/wiggleExperimentElipse/)
 
 
 
