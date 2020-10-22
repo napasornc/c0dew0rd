@@ -24,7 +24,7 @@ I chose to work with the word 'Big Bang' at this point because I didn't want to 
 
 <img src="Steering.JPG" width="70%">
 
-> see in action [here](http://127.0.0.1:8134/)
+> see in action [here](https://napasornc.github.io/c0dew0rd/processing/week10/MajorProject4/)
 
 > code from [Coding train](https://youtu.be/4hA7G3gup-4)
 
@@ -32,11 +32,11 @@ After arriving at the steering behavior. I start to explore boid behavior within
 
 <img src="Flocking1.JPG" width="70%">
 
-> see in action [here](http://127.0.0.1:8179/) 
+> see in action [here](https://napasornc.github.io/c0dew0rd/processing/week10/MajorProjectFlocking1/) 
 
 <img src="Flocking2.JPG" width="70%">
 
-> see in action [here](http://127.0.0.1:8114/) 
+> see in action [here](https://napasornc.github.io/c0dew0rd/processing/week10/MajorProjectFlocking2/) 
 
 With advice from Karen I was able to turn boid which is an object into words. However, the word stak on top of one another so my next step is to debug the my for loop. 
 
@@ -46,7 +46,7 @@ With advice from Karen I was able to turn boid which is an object into words. Ho
 
 <img src="Flocking2.5.JPG" width="70%">
 
-> see in action [here](http://127.0.0.1:8067/)
+> see in action [here](https://napasornc.github.io/c0dew0rd/processing/week10/MajorProjectFlocking2_5/)
 
 -------------------------------------------------
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2009) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/week%2011) 
