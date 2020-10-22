@@ -38,6 +38,12 @@ After arriving at the steering behavior. I start to explore boid behavior within
 
 > see in action [here](http://127.0.0.1:8114/) 
 
+With advice from Karen I was able to turn boid which is an object into words.
+
+<img src="Karen1.JPG" width="70%">
+
+> Comment from Karen
+
 <img src="Flocking2.5.JPG" width="70%">
 
 > see in action [here](http://127.0.0.1:8067/)
