@@ -37,11 +37,11 @@ I follow Karen's advise and was able to get the word to not stack on one another
 
 <img src="Try1.JPG" width="80%">
 
-> see in action [here](http://127.0.0.1:8957/)
+> see in action [here](https://napasornc.github.io/c0dew0rd/processing/week11/MajorProjectFlocking7/)
 
 <img src="Try2.JPG" width="80%">
 
-> see in action [here](http://127.0.0.1:8171/)
+> see in action [here](https://napasornc.github.io/c0dew0rd/processing/week11/MajorProjectFlocking8/)
 
 I ask Jamie for help after working on them. Jamie suggest that split function requires its own seperate for loop to be able to split a string. He give me [resource](https://creative-coding.decontextualize.com/text-and-type/) to look at. I try to change different the for loop in fuction setup and function drawing but the paragraph still won't split. I also look at code from Yutang and Bridie for para.split.
 
