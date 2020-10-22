@@ -53,7 +53,9 @@ I ask Jamie for help after working on them. Jamie suggest that split function re
 
 > [Bridie](https://github.com/bridieotoole/codewords/blob/master/week_11/Whitewashtext/Whitewashtext.js)
 
-Here is where I was orginally put my for loop
+## Breakthrough for 'for loop'
+
+Here is origianlly where my for loop was. This is what causing problem.
 
 <img src="for1.JPG" width="80%">
 
