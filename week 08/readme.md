@@ -5,10 +5,36 @@ During this week I wasn't sure which prototype I should go with and didn't know 
 1. openprocessing.org
 2. timrodenbroeker.de
 3. codepen
-4. other people's github (classmate)
+4. IBM
+5. other people's github (classmate)
 
 ## What is needed for this prototype
 
+So I start exploring the new resource and look at the code behind it. Then I go on coding train and start to learn more about different topics such as timing. I also start looking for different project on IMB. Code start to bleed into my other capstone project. I was working on virtual dinner party and I was looking to make a book/zine out of the dining experience. I start to looking for a way to use creative coding to capture the emotion of all participants and I learn that it might need to be done with NLP. NLP is too complicated so I start to look at voice recognition. Then I look at a way to detect something else on [IBM]((https://www.ibm.com/support/knowledgecenter/SS88XH_2.5.0/iva/ConfiguringAlertsStaticCams/ga_uc_motion_detection.html)) and I found that you can track the movement with pose net.
+
+<img src="Wave.JPG" width="70%">
+
+<img src="WaveCode.JPG" width="70%">
+
+> work from [Alva](https://www.openprocessing.org/sketch/907618)
+
+<img src="Grid.JPG" width="70%">
+
+> work from [genreative design](http://www.generative-gestaltung.de/2/sketches/?01_P/P_3_1_4_01)
+
+<img src="Facemapping.JPG" width="70%">
+
+<img src="FacemappingCode.JPG" width="70%">
+
+> work from [Takawo](https://www.openprocessing.org/sketch/942983)
+
+In class I talk to Jackie and Jamie, they explain to me what they are working on and then I get some advise from them. Jamie was using rita and jackie was using pose net. I wasn't sure what to do still because my idea change completely from the first prototype. I was look at a way to find a way that make word react/change based on the environment around them eg. if the camera detect changes in our enivronment(not on screen), mthe letters will disaapper or reappear or delete from the paragraph. 
+
+<img src="Class1" width="70%">
+
+<img src="Class2" width="70%">
+
+<img src="Class3" width="70%">
 
 
 ## Class
