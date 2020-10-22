@@ -24,7 +24,7 @@ I chose to work with the word 'Big Bang' at this point because I didn't want to 
 
 <img src="Steering.JPG" width="70%">
 
-> see in action [here](http://127.0.0.1:8134/)
+> see in action [here](https://github.com/napasornc/c0dew0rd/blob/master/processing/MajorProject4.js)
 
 > code from [Coding train](https://youtu.be/4hA7G3gup-4)
 
@@ -32,15 +32,15 @@ After arriving at the steering behavior. I start to explore boid behavior within
 
 <img src="Flocking1.JPG" width="70%">
 
-> see in action [here](http://127.0.0.1:8902/) 
+> see in action [here](https://github.com/napasornc/c0dew0rd/blob/master/processing/MajorProjectFlocking1.js) 
 
 <img src="Flocking2.JPG" width="70%">
 
-> see in action [here](http://127.0.0.1:8505/) 
+> see in action [here](https://github.com/napasornc/c0dew0rd/blob/master/processing/MajorProjectFlocking2.js) 
 
 <img src="Flocking2.5.JPG" width="70%">
 
-> see in action [here](http://127.0.0.1:8960/)
+> see in action [here](https://github.com/napasornc/c0dew0rd/blob/master/processing/MajorProjectFlocking2.5.js)
 -------------------------------------------------
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2009) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/week%2011) 
 -------------------------------------------------
