@@ -16,5 +16,5 @@ adding paragraph
 -------------------------------------------------
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2005) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/week%2006.2) 
 -------------------------------------------------
-### [Code week 6.1]() 
+### [Code week 6.1](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2006.1) 
 
