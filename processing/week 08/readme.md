@@ -2,9 +2,11 @@
 
 
 ## See in action
-1. 
+1. [Wiggle](http://127.0.0.1:8436/)
+2. [Wiggle word split](http://127.0.0.1:8816/)
+3. [Wiggle word split with elipse](http://127.0.0.1:8317/)
 
-> code fron []()
+> code from Karen
 
 
 
