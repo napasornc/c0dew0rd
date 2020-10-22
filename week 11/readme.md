@@ -25,9 +25,27 @@ Here is the comment from Karen:
 
 <img src="Karen7.JPG" width="60%">
 
-After follow Karen comment, the paragraph still won't split into word. After a lot of tries, I send email out to Karen and also ask Jamie for help. 
+After follow Karen comment, the paragraph still won't split into word. After a lot of tries, I send email out to Karen.
 
 <img src="Karen6.JPG" width="60%">
+
+<img src="Karen8.JPG" width="60%">
+
+I follow Karen's advise and was able to get the word to not stack on one another but it turn out I was sending the whole sentence to boid. 
+
+<img src="Try1.JPG" width="60%">
+
+> see in action [here](http://127.0.0.1:8957/)
+
+<img src="Try2.JPG" width="60%">
+
+> see in action [here](http://127.0.0.1:8171/)
+
+I ask Jamie for help after working on them. Jamie suggest that split function requires its own seperate for loop to be able to split a string. He give me [resource](https://creative-coding.decontextualize.com/text-and-type/) to look at. 
+
+
+
+> Code edit by Jamie
 
 ## Styling
 
@@ -39,13 +57,9 @@ I was trying to bring bright color into the work because I way to make the conce
 
 
 
-## Email
-
-
 ## Sound
 
-I decided to add sound so that it enhance the reading experience. However, I think 
-
+I decided to add sound so that it enhance the reading experience. However, now that I think about it, I think stripping back the sound might be a good idea. I think it doesn't incorperate into the work. If I were to develop it, I will try to use text-to-voice(maybe) to control the behavior of the flocking.
 
 -------------------------------------------------
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2010) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/week%2012) 
