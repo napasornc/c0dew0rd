@@ -243,6 +243,8 @@ ENDWHILE
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2006.2) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/week%2008) 
 -------------------------------------------------
 ### [Code week 7](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2007) 
+--------------------------------------------------
+### [Back to weekly note](https://napasornc.github.io/c0dew0rd/)
 
 
 
