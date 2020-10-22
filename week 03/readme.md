@@ -42,7 +42,7 @@ I am into sound design anyway so I decided to dig a little bit more into music p
 
 ![](amp.JPG)
 
-> see in action [here](https://editor.p5js.org/napasornc/present/dgtxBQdm-)
+> see in action [here](https://editor.p5js.org/napasornc/sketches/dgtxBQdm-)
 
 >I follow along these tutorials which you can check it out [here](https://youtu.be/q2IDNkUws-A) and [here](https://youtu.be/587qclhguQg)
 
