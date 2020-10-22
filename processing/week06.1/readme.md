@@ -2,7 +2,7 @@
 Karen show us how to make random letters from an array pop up and also how to make erase letters. The array was confusing for a bit but once I understand how to call something from the array, the code is easier and tidier.    
 
 ## See in action
-1. Random Letter, [array](https://napasornc.github.io/c0dew0rd/processing/week06/week_6_letters/)
+1. Random Letter, [array](https://napasornc.github.io/c0dew0rd/processing/week06.1/week_6_letters/)
 
 > code from Karen
 
