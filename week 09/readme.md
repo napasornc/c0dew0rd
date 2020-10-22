@@ -15,7 +15,7 @@ I code along coding train for the voice recognition I use during dinner party. I
 
 <img src="Dinner2.JPG" width="100%">
 
-> see in action [here](http://127.0.0.1:8414/)
+> see in action [here](https://napasornc.github.io/c0dew0rd/processing/week09/DinerParty/)
 
 > code from [coding train](https://youtu.be/q_bXBcmfTJM)
 
