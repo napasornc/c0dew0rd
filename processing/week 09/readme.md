@@ -1,7 +1,7 @@
 # Here is all the code from week 9
 
 ## What work
-see Dinner Party in action [here]
+[Dinner Party](http://127.0.0.1:8634/)
 
 ## What fail
 These two code isn't functioning so there is no link to live work. 
