@@ -32,15 +32,16 @@ After arriving at the steering behavior. I start to explore boid behavior within
 
 <img src="Flocking1.JPG" width="70%">
 
-> see in action [here](https://github.com/napasornc/c0dew0rd/blob/master/processing/MajorProjectFlocking1.js) 
+> see in action [here](http://127.0.0.1:8179/) 
 
 <img src="Flocking2.JPG" width="70%">
 
-> see in action [here](https://github.com/napasornc/c0dew0rd/blob/master/processing/MajorProjectFlocking2.js) 
+> see in action [here](http://127.0.0.1:8114/) 
 
 <img src="Flocking2.5.JPG" width="70%">
 
-> see in action [here](https://github.com/napasornc/c0dew0rd/blob/master/processing/MajorProjectFlocking2.5.js)
+> see in action [here](http://127.0.0.1:8067/)
+
 -------------------------------------------------
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2009) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/week%2011) 
 -------------------------------------------------
