@@ -2,7 +2,7 @@
 This week I spend time more on reaerching and interpretating the reading but I want to do a little bit of coding to keep the flow going. You can't play tic-tac-toe with this attempt but I was able to create grid and learn about array. I used Jamie's work as a case study, broke down his code and learn different part of hos code. It was helpful but it didn't get anything running.    
 
 ## What fail
-1. [Tic-Tac-Toe](http://127.0.0.1:8734/)
+1. [Tic-Tac-Toe](https://napasornc.github.io/c0dew0rd/processing/week06.2/tic_tac_toe/)
 
 > learn sound input from [coding train](https://youtu.be/GTWrWM1UsnA)
 
