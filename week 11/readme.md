@@ -23,6 +23,10 @@ Here is the comment from Karen:
 
 <img src="Karen5.JPG" width="60%">
 
+<img src="Karen7.JPG" width="60%">
+
+After follow Karen comment, the paragraph still won't split into word. After a lot of tries, I send email out to Karen and also ask Jamie for help. 
+
 <img src="Karen6.JPG" width="60%">
 
 ## Styling
