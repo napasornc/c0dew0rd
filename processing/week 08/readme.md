@@ -1,9 +1,10 @@
 # Here is all the code from week 8
 
+This week, we learn about class.
 
 ## See in action
-1. [Wiggle](http://127.0.0.1:8436/)
-2. [Wiggle word split](http://127.0.0.1:8816/)
+1. [Wiggle random](http://127.0.0.1:8436/)
+2. [Wiggle word split hack](http://127.0.0.1:8816/)
 3. [Wiggle word split with elipse](http://127.0.0.1:8317/)
 
 > code from Karen
