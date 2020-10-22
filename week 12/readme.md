@@ -18,6 +18,8 @@ Karen help me identify which part of my code is causing problem. I have to
 
 ## Goal
 
+## Final work
+
 
 
 I was in aw of how amzing and how diverse everyone's work is. 
