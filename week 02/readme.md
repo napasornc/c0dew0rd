@@ -52,7 +52,7 @@ We also learn how to make spiralgraph type. Using `translate(movement,movement)`
 -------------------------------------------------
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2001) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/week%2003) 
 -------------------------------------------------
-### [Code week 2](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2002) 
+### [Code week 2](https://github.com/napasornc/c0dew0rd/tree/master/processing/week02) 
 
 --------------------------------------------------
 ### [Back to weekly note](https://napasornc.github.io/c0dew0rd/)
