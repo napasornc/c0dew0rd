@@ -16,7 +16,7 @@ This is where I sum up what I have been working on, discussion, reflection, and 
 
 ### [Week 1 _ What is CodeWord](https://github.com/napasornc/c0dew0rd/tree/master/week%2001) 
 
-### [Week 2 _ Rereading](https://github.com/napasornc/c0dew0rd/tree/master/processing/week02) 
+### [Week 2 _ Rereading](https://github.com/napasornc/c0dew0rd/tree/master/week%2002) 
 
 ### [Week 3 _ Electronic-Literature](https://github.com/napasornc/c0dew0rd/tree/master/week03) 
 
