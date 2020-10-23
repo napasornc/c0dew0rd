@@ -7,7 +7,7 @@ This week I have fun trying out different things in the sketch. I did bunch of s
 3. [Spirograph](https://napasornc.github.io/c0dew0rd/processing/week02/spirograph/)
 
 ---------------------------------------------------
-### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2001) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2003)  
+### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/processing/week01) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/processing/week03)  
 
 --------------------------------------------------
 ### [Back to weekly note](https://napasornc.github.io/c0dew0rd/)
