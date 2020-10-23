@@ -9,7 +9,10 @@ This week I forcus on debugging and typography
 4. Major Project 18, [chaning style](https://napasornc.github.io/c0dew0rd/processing/week12/MajorProjectFlocking18/)
 
 ---------------------------------------------------
-### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2011)  
+### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/processing/week11)  
+
+--------------------------------------------------
+### [Back to week 12 note](https://github.com/napasornc/c0dew0rd/tree/master/week%2012)
 
 --------------------------------------------------
 ### [Back to weekly note](https://napasornc.github.io/c0dew0rd/)
