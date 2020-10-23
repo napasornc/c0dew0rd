@@ -4,6 +4,16 @@ Welcome to my coding space!
 
 This is where I sum up what I have been working on, discussion, reflection, and material generated inside and outside of class. Hope we can share our code, please feel free to grab anything and ask for pull request if there is anything you want to add to my code. Here is the list of topics run by week, chronologically.
 
+## Instruction
+1. Weekly note: note for each week can be find here
+2. See code: you can see weekly code here
+3. Final word: my mini reflection
+4. Statement: here is the SKO statement
+
+## Side note - navigation
+1. Back to weekly note: will bring you back to the landing page
+2. 
+
 <img src="SIm.gif" width="60%">
 
 > Thank lowgif for this animated gif
