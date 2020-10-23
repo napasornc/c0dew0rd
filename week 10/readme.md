@@ -12,7 +12,8 @@ This was a rough week, I was very busy with placement and didn't have enough tim
 
 ## Final decision
 
-From the sketch I start looking at resource and found steering behavior on Coding train. I think it reflect the behaviour of virus that is autonomous but live together in a complex environment. I want to create a scence of jungle that virus live in. Ray wrote that virus is arrive and we as a coder observe its behavior and control its application. 
+From the sketch I start looking at resource and found steering behavior on Coding train. I think it reflect the behaviour of virus that is autonomous but live together in a complex environment. I want to create a scence of jungle that virus live in. Ray wrote that virus is arrive and we as a coder observe its behavior and control its application. The theory of boid id from Craig’s work. His boid simulates a flock of birds and bees. Which is awesome because we can now understand how to set behavior and tasks to object. I replace objects with words, so words are behaving according to the task but it’s also an autonomous object that has its own perception and reacts to its environment. So words come to life in a semi-literal sense.
+
 
 <img src="FlockingRef.JPG" width="70%">
 
