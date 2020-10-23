@@ -53,6 +53,6 @@ see in action [here](https://napasornc.github.io/c0dew0rd/processing/week08/wigg
 -------------------------------------------------
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2007) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/week%2009) 
 -------------------------------------------------
-### [Code week 8](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2008) 
+### [Code week 8](https://github.com/napasornc/c0dew0rd/tree/master/processing/week08) 
 --------------------------------------------------
 ### [Back to weekly note](https://napasornc.github.io/c0dew0rd/)
