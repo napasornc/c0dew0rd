@@ -29,7 +29,7 @@ We learn function preload and create spinning movement using syntax `spin`, `tra
 -------------------------------------------------
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2003) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/week%2005) 
 -------------------------------------------------
-### [Code week 4](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2004) 
+### [Code week 4](https://github.com/napasornc/c0dew0rd/tree/master/processing/week04) 
 --------------------------------------------------
 ### [Back to weekly note](https://napasornc.github.io/c0dew0rd/)
 
