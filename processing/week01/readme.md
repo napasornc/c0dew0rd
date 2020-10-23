@@ -11,7 +11,7 @@ From week one, I didn't know how to code, never heard of p5.js or github. I did 
 > introduction to [p5.js](https://youtu.be/8j0UDiN7my4)
 
 ---------------------------------------------------
-### [Next](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2002) 
+### [Next](https://github.com/napasornc/c0dew0rd/tree/master/processing/week02) 
 
 --------------------------------------------------
 ### [Back to week 1 note](https://github.com/napasornc/c0dew0rd/tree/master/week%2001)
