@@ -58,6 +58,6 @@ I made a few tweak to the size of the text and color so it is more legible. Here
 -------------------------------------------------
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2011) 
 -------------------------------------------------
-### [Code week 12](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2012) 
+### [Code week 12](https://github.com/napasornc/c0dew0rd/tree/master/processing/week12) 
 --------------------------------------------------
 ### [Back to weekly note](https://napasornc.github.io/c0dew0rd/)
