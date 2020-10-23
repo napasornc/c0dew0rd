@@ -25,7 +25,7 @@ However, with the motion detection, I was able to get the library working which 
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/processing/week08) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/processing/week10)
 
 --------------------------------------------------
-### [Back to week 2 note](https://github.com/napasornc/c0dew0rd/tree/master/week%20010)
+### [Back to week 10 note](https://github.com/napasornc/c0dew0rd/tree/master/week%200010)
 
 --------------------------------------------------
 ### [Back to weekly note](https://napasornc.github.io/c0dew0rd/)
