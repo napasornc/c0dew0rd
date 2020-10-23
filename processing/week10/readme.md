@@ -34,7 +34,10 @@ This week I focus on steering and flocking behavior. To understand flocking, I h
 > Boid from [Jack Perkins](https://github.com/jackaperkins/boids/blob/master/Boid.pde)
 
 ---------------------------------------------------
-### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2009) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2011)  
+### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/processing/week09) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/processing/week11) 
+
+--------------------------------------------------
+### [Back to week 10 note](https://github.com/napasornc/c0dew0rd/tree/master/week%2010)
 
 --------------------------------------------------
 ### [Back to weekly note](https://napasornc.github.io/c0dew0rd/)
