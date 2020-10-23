@@ -10,7 +10,7 @@ This week I spend time more on reaerching and interpretating the reading but I w
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/processing/week06.1) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/processing/week07)  
 
 --------------------------------------------------
-### [Back to week 2 note](https://github.com/napasornc/c0dew0rd/tree/master/week%2006.2)
+### [Back to week 6.2 note](https://github.com/napasornc/c0dew0rd/tree/master/week%2006.2)
 
 --------------------------------------------------
 ### [Back to weekly note](https://napasornc.github.io/c0dew0rd/)
