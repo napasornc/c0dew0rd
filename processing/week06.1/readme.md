@@ -10,7 +10,7 @@ Karen show us how to make random letters from an array pop up and also how to ma
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/processing/week04) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/processing/week06.2)
 
 --------------------------------------------------
-### [Back to week 6.1 note](https://github.com/napasornc/c0dew0rd/tree/master/week%206.1)
+### [Back to week 6.1 note](https://github.com/napasornc/c0dew0rd/tree/master/week%2006.1)
 
 --------------------------------------------------
 ### [Back to weekly note](https://napasornc.github.io/c0dew0rd/)
