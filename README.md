@@ -12,7 +12,7 @@ This is where I sum up what I have been working on, discussion, reflection, and 
 
 ## Side note - navigation
 1. Back to weekly note: will bring you back to the landing page
-2. 
+2. Code week(1-12): will take you to weekly code menu page
 
 <img src="SIm.gif" width="60%">
 
