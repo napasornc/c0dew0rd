@@ -1,13 +1,13 @@
 # Week 12_Final Presentation :astonished:
 
-This week I have to debug the sound, and for loop, and start to experiment with color and typeface. Karen help me identify which part of my code is causing problem. I think one of the thing that suprise me through out this week is I understand processing language. I start to enjoy coding again because I start to be able to read it and write it on my own. 
+This week I have to debug the sound, and for loop, and start to experiment with color and typeface. Karen help me identify which part of my code is causing problem. I think one of the thing that suprise me through out this week is that I understand processing language. I start to enjoy coding again because I am able to read it and write it on my own.  
 
-<img src="Karen10.JPG" width="70%">
+<img src="Karen10.JPG" width="70%"> 
 
 > Comment from Karen
 
 ## Trouble with sounds
-With the sound loop, as I learn from Karen, the sound need to have a starting gesture meaning I should add a button or other type of way that user can start the song. I chose to put button in because that's what I know how to code and also because it's intuitive. I also put song loop,  
+With the sound loop, as I learn from Karen, the sound need to have a starting gesture meaning I should add a button or other type of way that user can start the song. I chose to put button in because that's what I know how to code and also because it's intuitive. I also put song loop, so the sound don't stop. 
 
 ## Trouble word loop
 
@@ -31,15 +31,17 @@ After I add a secondary font, I was having trouble with looping the for loop thr
 > see in action [here](https://napasornc.github.io/c0dew0rd/processing/week12/MajorProjectFlocking9/)
 
 
-## Add background sentence
+## Add background sentence and mousePress
+
+I decide to add a secondary sentence so that people can read the full paragraph as they control the wormy word that layered on top. I think if were to improve how we read, I might look at controlling the flock and 3d space. I want user to control and add the path where the flock would follow and make it 3d so reader get the feeling that they were in the jugle, not just looking at the jungle.
 
 <img src="Final2.JPG" width="80%">
 
 > see in action [here](https://napasornc.github.io/c0dew0rd/processing/week12/MajorProjectFlocking10/)
 
-## Add mousePress
-
 ## Styling 
+
+I chose a very dark green background so that it's emulate the jungle at night, combine with sound it's getting the feeling of us, the reader exploring and observing animal (virus) behavior in it's environment(screen, jungle). At night, I would imagine that the jungle is quite and the slightest sounds can disturb the animal. Someone in class comment that the moving words looks like flyerflies and I think I agree, eventhough it wasn't orginal intention. I think it's more fun to have anyone read, play, and interpret the text with their own imagination.  
 
 <img src="Final3.JPG" width="80%">
 
@@ -47,7 +49,7 @@ After I add a secondary font, I was having trouble with looping the for loop thr
 
 ## Final work
 
-Here is the goal for final work. I name it Virus is (not) wild. Super cringe, I know. Virus is(not)wild focus is an interactive reading machine. It is an interpretation of the reading called ‘Viruses are good for you’, written by Julian Dibbel. The reading talks about us living in the world full of computer viruses. Instead of letting fear take over, we can study it and get familiar with it. Virus is alive and it is as diverse as different species of the Amazon jungle. Personally, Julian describes the virus beautifully transforming from trouble maker to solution creator. There is potential for viruses to solve problems humans can’t begin to imagine. It runs wild, evelove, generates, mutates into something we can oneday use for our own applications - this is what ‘Virus is(not)wild’ all about. We pretend to be computer scientists, observing the behavior of viruses which in this case is words and we assign tasks to the virus by adjusting its behavior. 
+Here is the goal for final work. I name it Virus is (not) wild. Super cringe, I know. Virus is(not)wild focus is an interactive reading machine. It is an interpretation of the reading called ‘Viruses are good for you’, written by Julian Dibbel. The reading talks about us living in the world full of computer viruses. Instead of letting fear take over, we can study it and get familiar with it. Virus is alive and it is as diverse as different species of the Amazon jungle. Personally, Julian describes the virus beautifully transforming from trouble maker to solution creator. There is potential for viruses to solve problems humans can’t begin to imagine. It runs wild, evelove, generates, mutates into something we can oneday use for our own applications - this is what ‘Virus is(not)wild’ all about. We pretend to be computer scientists, observing the behavior of viruses which in this case is words and we assign tasks to the virus by adjusting its behavior. It's almost a menifesto from Julian that there is always different perspective to look at scary topics, make it colorful and approachable.  
 
 <img src="Final4.gif" width="80%">
 
