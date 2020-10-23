@@ -51,6 +51,6 @@ With advice from Karen I was able to turn boid which is an object into words. Ho
 -------------------------------------------------
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2009) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/week%2011) 
 -------------------------------------------------
-### [Code week 10](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2010) 
+### [Code week 10](https://github.com/napasornc/c0dew0rd/tree/master/processing/week10) 
 --------------------------------------------------
 ### [Back to weekly note](https://napasornc.github.io/c0dew0rd/)
