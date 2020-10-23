@@ -13,7 +13,7 @@ This week Karen show us how to add sound and how to make text react to the volum
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/processing/week06.2) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/processing/week08)  
 
 --------------------------------------------------
-### [Back to week 8 note](https://github.com/napasornc/c0dew0rd/tree/master/week%2008)
+### [Back to week 7 note](https://github.com/napasornc/c0dew0rd/tree/master/week%2008)
 
 --------------------------------------------------
 ### [Back to weekly note](https://napasornc.github.io/c0dew0rd/)
