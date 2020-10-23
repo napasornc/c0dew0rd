@@ -18,27 +18,27 @@ This is where I sum up what I have been working on, discussion, reflection, and 
 
 ### [Week 2 _ Rereading](https://github.com/napasornc/c0dew0rd/tree/master/week%2002) 
 
-### [Week 3 _ Electronic-Literature](https://github.com/napasornc/c0dew0rd/tree/master/week03) 
+### [Week 3 _ Electronic-Literature](https://github.com/napasornc/c0dew0rd/tree/master/week%2003) 
 
-### [Week 4 _ Reading in SIM4](https://github.com/napasornc/c0dew0rd/blob/master/week04) 
+### [Week 4 _ Reading in SIM4](https://github.com/napasornc/c0dew0rd/tree/master/week%2004) 
 
-### [Week 5 _ Screening](https://github.com/napasornc/c0dew0rd/tree/master/week05) 
+### [Week 5 _ Screening](https://github.com/napasornc/c0dew0rd/tree/master/week%2005) 
 
-### [Week 6.1 _ Paper prototype](https://github.com/napasornc/c0dew0rd/blob/master/week06.1) 
+### [Week 6.1 _ Paper prototype](https://github.com/napasornc/c0dew0rd/tree/master/week%2006.1) 
 
-### [Week 6.2 _ continue to think with paper](https://github.com/napasornc/c0dew0rd/tree/master/week06.2) 
+### [Week 6.2 _ continue to think with paper](https://github.com/napasornc/c0dew0rd/tree/master/week%2006.2) 
 
-### [Week 7 _ Show and tell](https://github.com/napasornc/c0dew0rd/blob/master/week07) 
+### [Week 7 _ Show and tell](https://github.com/napasornc/c0dew0rd/tree/master/week%2007) 
 
-### [Week 8 _ More Prototype](https://github.com/napasornc/c0dew0rd/blob/master/week08) 
+### [Week 8 _ More Prototype](https://github.com/napasornc/c0dew0rd/tree/master/week%2008) 
 
-### [Week 9 _ WIP_Voice recognition](https://github.com/napasornc/c0dew0rd/blob/master/week09) 
+### [Week 9 _ WIP_Voice recognition](https://github.com/napasornc/c0dew0rd/tree/master/week%2009) 
 
-### [Week 10 _ WIP_Boid](https://github.com/napasornc/c0dew0rd/tree/master/week10) 
+### [Week 10 _ WIP_Boid](https://github.com/napasornc/c0dew0rd/tree/master/week%2010) 
 
-### [Week 11 _ WIP_Word Flock](https://github.com/napasornc/c0dew0rd/blob/master/week11) 
+### [Week 11 _ WIP_Word Flock](https://github.com/napasornc/c0dew0rd/tree/master/week%2011) 
 
-### [Week 12 _ Final Presentation](https://github.com/napasornc/c0dew0rd/blob/master/week12) 
+### [Week 12 _ Final Presentation](https://github.com/napasornc/c0dew0rd/tree/master/week%2012) 
 
 -----------------------------------------------------
 ### [See code](https://github.com/napasornc/c0dew0rd/blob/master/processing/readme.md)
