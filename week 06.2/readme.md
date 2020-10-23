@@ -231,7 +231,7 @@ show() {
 ## Add bubble when click the mouse
 
 ```
-let bubbles = [];
+< let bubbles = [];
 
 function setup() {
   createCanvas (windowWidth,windowHeight);
@@ -276,6 +276,7 @@ show() {
     ellipse(this.x, this.y, this.r * 2);
   }
 }
+>
 ```
 
 ## Tic-tac-toe
