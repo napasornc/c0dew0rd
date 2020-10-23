@@ -37,7 +37,7 @@ Kristine send me two resources
 -------------------------------------------------
 ### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/week%2008) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/week%2010) 
 -------------------------------------------------
-### [Code week 9](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2009) 
+### [Code week 9](https://github.com/napasornc/c0dew0rd/tree/master/processing/week09) 
 --------------------------------------------------
 ### [Back to weekly note](https://napasornc.github.io/c0dew0rd/)
 
