@@ -14,7 +14,7 @@ This is where I sum up what I have been working on, discussion, reflection, and 
 # Weekly note
 
 
-### [Week 1 _ What is CodeWord](https://github.com/napasornc/c0dew0rd/tree/master/processing/week01) 
+### [Week 1 _ What is CodeWord](https://github.com/napasornc/c0dew0rd/tree/master/week%2001) 
 
 ### [Week 2 _ Rereading](https://github.com/napasornc/c0dew0rd/tree/master/processing/week02) 
 
