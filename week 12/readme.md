@@ -33,7 +33,7 @@ After I add a secondary font, I was having trouble with looping the for loop thr
 
 ## Add background sentence and mousePress
 
-I decide to add a secondary sentence so that people can read the full paragraph as they control the wormy word that layered on top. I think if were to improve how we read, I might look at controlling the flock and 3d space. I want user to control and add the path where the flock would follow and make it 3d so reader get the feeling that they were in the jugle, not just looking at the jungle.
+I decide to add a secondary sentence so that people can read the full paragraph as they control the wormy word that layered on top. I think if were to improve how we read, I might look at controlling the flock and 3d space. I want user to control and add the path where the flock would follow and make it 3d so reader get the feeling that they were in the jugle, not just looking at the jungle. Typography and color was just the test proof.
 
 <img src="Final2.JPG" width="80%">
 
@@ -41,7 +41,7 @@ I decide to add a secondary sentence so that people can read the full paragraph 
 
 ## Styling 
 
-I chose a very dark green background so that it's emulate the jungle at night, combine with sound it's getting the feeling of us, the reader exploring and observing animal (virus) behavior in it's environment(screen, jungle). At night, I would imagine that the jungle is quite and the slightest sounds can disturb the animal. Someone in class comment that the moving words looks like flyerflies and I think I agree, eventhough it wasn't orginal intention. I think it's more fun to have anyone read, play, and interpret the text with their own imagination.  
+I chose a very dark green background so that it's emulate the jungle at night, combine with sound it's getting the feeling of us, the reader exploring and observing animal (virus) behavior in it's environment(screen, jungle). At night, I would imagine that the jungle is quite and the slightest sounds can disturb the animal. Someone in class comment that the moving words looks like flyerflies and I think I agree, eventhough it wasn't orginal intention. I think it's more fun to have anyone read, play, and interpret the text with their own imagination. Typeface that I use is TINY, the shape of it really remind me of worm. If I can figure out how to make each circle ,that compose the typeface, move freely, the letter might come to live more. I want the type to be playful and the wormy characteristic of it fits well. The color neon green was intentionally use, I want to reflect the color from the images of microscopic virus(real virus).  
 
 <img src="Final3.JPG" width="80%">
 
@@ -49,7 +49,7 @@ I chose a very dark green background so that it's emulate the jungle at night, c
 
 ## Final work
 
-Here is the goal for final work. I name it Virus is (not) wild. Super cringe, I know. Virus is(not)wild focus is an interactive reading machine. It is an interpretation of the reading called ‘Viruses are good for you’, written by Julian Dibbel. The reading talks about us living in the world full of computer viruses. Instead of letting fear take over, we can study it and get familiar with it. Virus is alive and it is as diverse as different species of the Amazon jungle. Personally, Julian describes the virus beautifully transforming from trouble maker to solution creator. There is potential for viruses to solve problems humans can’t begin to imagine. It runs wild, evelove, generates, mutates into something we can oneday use for our own applications - this is what ‘Virus is(not)wild’ all about. We pretend to be computer scientists, observing the behavior of viruses which in this case is words and we assign tasks to the virus by adjusting its behavior. It's almost a menifesto from Julian that there is always different perspective to look at scary topics, make it colorful and approachable.  
+I made a few tweak to the size of the text and color so it is more legible. Here is the goal for final work. I name it Virus is (not) wild. Super cringe, I know. Virus is(not)wild focus is an interactive reading machine. It is an interpretation of the reading called ‘Viruses are good for you’, written by Julian Dibbel. The reading talks about us living in the world full of computer viruses. Instead of letting fear take over, we can study it and get familiar with it. Virus is alive and it is as diverse as different species of the Amazon jungle. Personally, Julian describes the virus beautifully transforming from trouble maker to solution creator. There is potential for viruses to solve problems humans can’t begin to imagine. It runs wild, evelove, generates, mutates into something we can oneday use for our own applications - this is what ‘Virus is(not)wild’ all about. We pretend to be computer scientists, observing the behavior of viruses which in this case is words and we assign tasks to the virus by adjusting its behavior. It's almost a menifesto from Julian that there is always different perspective to look at scary topics, make it colorful and approachable.  
 
 <img src="Final4.gif" width="80%">
 
