@@ -7,7 +7,10 @@ In someone picked sound artist to share with the rest of us and I was curious to
 1. [Oh! what a shiny night](https://editor.p5js.org/napasornc/present/dgtxBQdm-)
 
 ---------------------------------------------------
-### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2002) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/processing/week%2004)  
+### [Previous](https://github.com/napasornc/c0dew0rd/tree/master/processing/week02) -> [Next](https://github.com/napasornc/c0dew0rd/tree/master/processing/week04)  
+
+--------------------------------------------------
+### [Back to week 3 note](https://github.com/napasornc/c0dew0rd/tree/master/week%2003)
 
 --------------------------------------------------
 ### [Back to weekly note](https://napasornc.github.io/c0dew0rd/)
